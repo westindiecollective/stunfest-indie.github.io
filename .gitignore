@@ -1,0 +1,8 @@
+# Jekyll
+_site
+
+# Sass
+.sass-cache
+
+# Crap
+.DS_Store*
