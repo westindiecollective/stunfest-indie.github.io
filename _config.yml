@@ -1,0 +1,15 @@
+name: indie.stunfest.fr
+
+# Code
+pygments: false
+exclude: ['_sources', '_raws']
+
+# Permalink format (without day)
+permalink: /:title
+
+# Pagination
+paginate_path: ':num'
+paginate: 100
+
+# Markdown formatter
+markdown: redcarpet
