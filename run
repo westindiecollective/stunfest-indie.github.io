@@ -1,0 +1,4 @@
+#!/bin/sh
+
+jekyll serve --watch &
+scss _sources/:static/styles --watch
