@@ -1,0 +1,180 @@
+@charset "utf-8";
+
+// -------------------------------------------------------
+// Wrapper.
+// -------------------------------------------------------
+
+.page-wrapper {
+  display: table;
+}
+
+// -------------------------------------------------------
+// Nav.
+// -------------------------------------------------------
+
+.page-nav {
+  display: table-cell;
+  padding: 40px 0;
+  width: 300px;
+  background-color: #FBF3F1;
+}
+
+.page-nav__links {
+  margin-left: 35px;
+  padding: 5px 0 5px 15px;
+  border-left: 3px solid $sub-color;
+
+  color: #939393;
+  font-size: 0.9rem;
+}
+
+// -------------------------------------------------------
+// Content.
+// -------------------------------------------------------
+
+.page-content {
+  display: table-cell;
+  padding: 40px 0;
+}
+
+// -------------------------------------------------------
+// Card.
+// -------------------------------------------------------
+
+.card {
+  width: 800px;
+  margin: 0 50px;
+  margin-bottom: 90px;
+}
+
+.card__title {
+  border-bottom: 1px solid #BFBFBF;
+  font-size: 1.9rem;
+}
+
+.card__nav {
+  position: relative;
+  top: 30px; left: -220px;
+  float: right;
+}
+
+.card__cover {
+  margin-bottom: $default-spacing;
+  max-width: 500px;
+  border: 5px solid #D8D8D8;
+  border-radius: 5px;
+
+  img {
+    display: block;
+    margin: 0;
+    padding: 0;
+    max-width: 500px;
+  }
+}
+
+.card__content {
+  margin-bottom: $default-spacing;
+}
+
+.card__text,
+.card__footer {
+  margin: 0 10px;
+  width: 480px;
+}
+
+// Social
+
+.card__social {
+  display: block;
+  margin-bottom: 10px;
+  width: 37px;
+  height: 37px;
+
+  // Background of 74x74px, displayed in 37px for retinas.
+  background-size: 37px;
+  background-repeat: no-repeat;
+
+  // Hide text.
+  text-indent: -9999px;
+}
+
+.card__social--twitter {
+  background-image: url("/static/images/icons/twitter.png");
+}
+
+.card__social--facebook {
+  background-image: url("/static/images/icons/facebook.png");
+}
+
+.card__social--website {
+  background-image: url("/static/images/icons/website.png");
+}
+
+// Footer
+
+.card__footer {
+  display: table;
+  height: 40px;
+  color: #7D7D7D;
+
+  clear: both;
+}
+
+.card__metadata {
+  display: table-cell;
+  vertical-align: bottom;
+  font-size: 0.8rem;
+}
+
+.card__presskit {
+  display: table-cell;
+  font-size: 1.1rem;
+  text-align: right;
+  vertical-align: middle;
+
+  a {
+    padding: 5px 12px 5px 40px;
+    width: 135px;
+
+    background-color: #fbe5e5;
+    background-image: url("/static/images/icons/presskit.png");
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: 10px center;
+    border: 1px solid $brand-color;
+    border-radius: 5px;
+
+    @include box-sizing(border-box);
+
+    &:hover {
+      border-color: darken($brand-color, 7%);
+      box-shadow: 0 0 3px 2px rgba($brand-color, 0.2);
+
+      text-decoration: none;
+    }
+  }
+}
+
+// -------------------------------------------------------
+// Footer.
+// -------------------------------------------------------
+
+.page-footer {
+  padding: 22px;
+  padding-top: 14px;
+  background-color: #353131;
+
+  color: white;
+
+  p {
+    margin: 0;
+  }
+
+  .page-footer__wic {
+    font-size: 1.9rem;
+  }
+
+  .page-footer__pxn {
+    font-size: 0.8rem;
+  }
+}
