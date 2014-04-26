@@ -6,3 +6,102 @@
 
 @import "variables";
 @import "mixins";
+
+// -------------------------------------------------------
+// Reset.
+// -------------------------------------------------------
+
+/* Container */
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Title */
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+/* List + paragraph */
+ul, ol, dl, p {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+/* Misc */
+hgroup,
+dd,
+figure,
+pre,
+table,
+fieldset,
+hr {
+  margin: 0;
+  padding: 0;
+}
+
+// Add the line-height as a the default spacing
+h1, h2, h3, h4, h5, h6,hgroup,
+ul, ol, dd,
+p, figure,
+pre, table, fieldset, hr {
+  margin-bottom: $default-spacing;
+}
+
+// -------------------------------------------------------
+// Global.
+// -------------------------------------------------------
+
+html {
+  color: $text-color;
+
+  font-size: 100%;
+  font-weight: 400;
+  font-family: "Enriqueta", sans-serif;
+  line-height: 1.5;
+}
+
+// -------------------------------------------------------
+// Links.
+// -------------------------------------------------------
+
+%link {
+  color: $brand-color;
+  text-decoration: none;
+
+  &:hover  { text-decoration: underline; }
+  &:active { color: $sub-color; }
+  &:focus  { color: $sub-color; }
+}
+
+a {
+  @extend %link;
+}
+
+// -------------------------------------------------------
+// Selections.
+// -------------------------------------------------------
+
+// Change the selection to white on green
+::-moz-selection {
+  background: $brand-color;
+  color: white;
+}
+
+// Change the selection to white on green
+::selection {
+  background: $brand-color;
+  color: white;
+}
+
+// -------------------------------------------------------
+// Page.
+// -------------------------------------------------------
+
+@import "app.scss";
