@@ -5,6 +5,6 @@ title: indie.stunfest.fr
 
 <ul>
   {% for post in site.posts %}
-    <li>{{ post.title }}</li>
+    {% include card.html param = post %}
   {% endfor %}
 </ul>
