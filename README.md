@@ -1,3 +1,3 @@
 # indie.stunfest.fr
 
-Stunfest WIC showcase website.
+Stunfest WIC website.
