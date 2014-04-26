@@ -1,0 +1,46 @@
+<section class="card">
+  <h2 class="card__title">{{ post.title }}</h2>
+
+  <nav class="card__nav">
+    <ul>
+      {% if post.twitter %}
+      <li>
+        <a href="{{ post.twitter }}" class="card__social card__social--twitter">Twitter</a>
+      </li>
+      {% endif %}
+
+      {% if post.facebook %}
+      <li>
+        <a href="{{ post.facebook }}" class="card__social card__social--facebook">Facebook</a>
+      </li>
+      {% endif %}
+
+      {% if post.website %}
+      <li>
+        <a href="{{ post.website }}" class="card__social card__social--website">Website</a>
+      </li>
+      {% endif %}
+    </ul>
+  </nav>
+
+  <article class="card__content">
+    <div class="card__cover">
+      <a href="/static/images/covers/{{ post.title }}.png">
+        <img src="/static/images/covers/{{ post.title }}.png" alt="{{ post.title }}" />
+      </a>
+    </div>
+
+    <div class="card__text">{{ post.content }}</div>
+  </article>
+
+  <footer class="card__footer">
+    <div class="card__metadata">
+      {{ post.studio }}
+
+      {% if post.platforms %}
+        - {{ post.platforms }}
+      {% endif %}
+    </div>
+    <div class="card__presskit"><a href="{{ post.presskit }}">Presskit()</a></div>
+  </footer>
+</section>

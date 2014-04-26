@@ -1,0 +1,10 @@
+<nav class="page-nav">
+
+  <!-- Post links. -->
+  <ul class="page-nav__links">
+    {% for post in site.posts %}
+      <li>{{ post.title }}</li>
+    {% endfor %}
+  </ul>
+
+</nav>
