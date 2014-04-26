@@ -2,14 +2,14 @@ name: indie.stunfest.fr
 
 # Code
 pygments: false
-exclude: ['_sources', '_raws']
+exclude: ['_sources', '_raws', '.gitignore', 'run', 'Gemfile*']
 
 # Permalink format (without day)
 permalink: /:title
 
 # Pagination
 paginate_path: ':num'
-paginate: 100
+paginate: 500
 
 # Markdown formatter
 markdown: redcarpet
