@@ -17,6 +17,16 @@
   padding: 40px 0;
   width: 300px;
   background-color: #FBF3F1;
+
+  // Change the selection to white on green
+  ::-moz-selection {
+    background: $sub-color;
+  }
+
+  // Change the selection to white on green
+  ::selection {
+    background: $sub-color;
+  }
 }
 
 .page-nav__links {
@@ -26,6 +36,18 @@
 
   color: #939393;
   font-size: 0.9rem;
+
+  a {
+    color: #939393;
+
+    &:hover {
+      color: $sub-color;
+    }
+  }
+
+  a.selected {
+    color: $sub-color;
+  }
 }
 
 // -------------------------------------------------------

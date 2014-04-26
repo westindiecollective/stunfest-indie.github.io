@@ -3,7 +3,9 @@
   <!-- Post links. -->
   <ul class="page-nav__links">
     {% for post in site.posts %}
-      <li>{{ post.title }}</li>
+      <li>
+        <a href="#{{ post.title }}">{{ post.title }}</a>
+      </li>
     {% endfor %}
   </ul>
 

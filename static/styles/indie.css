@@ -67,6 +67,10 @@ a {
   padding: 40px 0;
   width: 300px;
   background-color: #FBF3F1; }
+  .page-nav ::-moz-selection {
+    background: #2498e5; }
+  .page-nav ::selection {
+    background: #2498e5; }
 
 .page-nav__links {
   margin-left: 35px;
@@ -74,6 +78,12 @@ a {
   border-left: 3px solid #2498e5;
   color: #939393;
   font-size: 0.9rem; }
+  .page-nav__links a {
+    color: #939393; }
+    .page-nav__links a:hover {
+      color: #2498e5; }
+  .page-nav__links a.selected {
+    color: #2498e5; }
 
 .page-content {
   display: table-cell;
