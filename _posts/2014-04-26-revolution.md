@@ -1,5 +1,6 @@
 ---
-title: A game
+title: The new revolution in gaming. Yeah.
+website: http://the-future-of-gaming-yeah.sexy/
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, ipsum, itaque, at ducimus amet perferendis voluptates distinctio eum adipisci obcaecati a necessitatibus tempore expedita dicta id aliquam quo corrupti reiciendis.
