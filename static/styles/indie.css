@@ -243,6 +243,10 @@ a {
       border-color: #d2401e;
       box-shadow: 0 0 3px 2px rgba(226, 83, 49, 0.2);
       text-decoration: none; }
+    .card__presskit a:active {
+      color: #e25331; }
+    .card__presskit a:focus {
+      color: #e25331; }
 
 .page-footer {
   padding: 22px;
