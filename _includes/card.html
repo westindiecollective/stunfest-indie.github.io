@@ -41,6 +41,11 @@
         - {{ post.platforms }}
       {% endif %}
     </div>
-    <div class="card__presskit"><a href="{{ post.presskit }}">Presskit()</a></div>
+
+      {% if post.presskit %}
+    <div class="card__presskit">
+      <a href="{{ post.presskit }}">Presskit()</a>
+    </div>
+      {% endif %}
   </footer>
 </section>
