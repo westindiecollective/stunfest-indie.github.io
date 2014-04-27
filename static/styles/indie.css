@@ -155,7 +155,7 @@ a {
 
 .page-nav__links {
   margin-left: 35px;
-  padding: 5px 0 5px 15px;
+  padding: 5px 15px 5px 15px;
   border-left: 3px solid #2498e5;
   color: #939393;
   font-size: 0.9rem; }
