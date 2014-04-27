@@ -66,52 +66,60 @@ a {
   background: url("/static/images/assets/header-background.png") repeat-x;
   background-size: auto 102px; }
 
-.header-banner {
+.header__wrapper {
   position: absolute;
   left: 50%;
   width: 432px;
+  /* 61px * 2 + 310px */
   margin-left: -216px; }
 
-.header-facebook,
-.header-twitter {
-  width: 78px;
-  height: 102px;
+.header__facebook,
+.header__twitter {
+  width: 61px;
+  height: 100px;
   background-repeat: no-repeat;
+  background-image: url("/static/images/assets/header-social@1x.png");
   cursor: pointer; }
 
-.header-facebook {
+.header__facebook {
   float: left;
-  background-image: url("/static/images/assets/header-social@1x.png");
   background-position: 0 0; }
-  .header-facebook:hover {
-    background-position: 0 -102px; }
+  .header__facebook:hover {
+    background-position: 0 -100px; }
 
-.header-twitter {
+.header__twitter {
   float: right;
-  background-image: url("/static/images/assets/header-social@1x.png");
-  background-position: -78px 0; }
-  .header-twitter:hover {
-    background-position: -78px -102px; }
+  background-position: -61px 0; }
+  .header__twitter:hover {
+    background-position: -61px -100px; }
 
-.header-logo {
-  margin-left: 78px;
+/* Retina for the fb/twitter spritesheet. */
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+  .header__facebook,
+  .header__twitter {
+    /* Reference the @2x Sprite */
+    background-image: url("/static/images/assets/header-social@2x.png");
+    /* Translate the @2x sprite's dimensions back to 1x */
+    background-size: 122px 200px; } }
+.header__banner {
+  margin-left: 61px;
   padding: 25px;
-  width: 276px;
-  height: 154px;
-  background: url("/static/images/assets/header-logo.png") no-repeat;
-  background-size: 276px 154px;
+  width: 310px;
+  height: 156px;
+  background: url("/static/images/assets/header-banner.png") no-repeat;
+  background-size: 310px 156px;
   font-size: 3.3rem;
   text-align: center;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
-  .header-logo a:focus {
+  .header__banner a:focus {
     color: #e25331; }
-  .header-logo a:active {
+  .header__banner a:active {
     color: #e25331; }
 
-.header-background__left,
-.header-background__right {
+.header__background--left,
+.header__background--right {
   position: absolute;
   width: 15px;
   height: 102px;
@@ -119,11 +127,11 @@ a {
   background-repeat: no-repeat;
   top: 0; }
 
-.header-background__left {
+.header__background--left {
   left: 0;
   background-image: url("/static/images/assets/header-background-left.png"); }
 
-.header-background__right {
+.header__background--right {
   right: 0;
   background-image: url("/static/images/assets/header-background-right.png"); }
 
