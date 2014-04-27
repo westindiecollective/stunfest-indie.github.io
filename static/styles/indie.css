@@ -78,8 +78,13 @@ a {
   width: 61px;
   height: 100px;
   background-repeat: no-repeat;
-  background-image: url("/static/images/assets/header-social@1x.png");
-  cursor: pointer; }
+  background-image: url("/static/images/assets/header-social@1x.png"); }
+  .header__facebook a,
+  .header__twitter a {
+    display: block;
+    width: 61px;
+    height: 100px;
+    text-indent: -9999px; }
 
 .header__facebook {
   float: left;
