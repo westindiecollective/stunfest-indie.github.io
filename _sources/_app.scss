@@ -11,7 +11,7 @@
 // -------------------------------------------------------
 
 .page-wrapper {
-  display: table;
+  background-color: #FBF3F1;
 }
 
 // -------------------------------------------------------
@@ -19,10 +19,9 @@
 // -------------------------------------------------------
 
 .page-nav {
-  display: table-cell;
+  float: left;
   padding: 40px 0;
   width: 300px;
-  background-color: #FBF3F1;
 
   // Change the selection to white on green
   ::-moz-selection {
@@ -61,9 +60,10 @@
 // -------------------------------------------------------
 
 .page-content {
-  display: table-cell;
+  margin-left: 300px;
   padding-top: 100px;
   padding-bottom: 40px;
+  background-color: white;
 }
 
 // -------------------------------------------------------
@@ -71,25 +71,30 @@
 // -------------------------------------------------------
 
 .card {
-  width: 800px;
+  position: relative;
   margin: 0 50px;
   margin-bottom: 90px;
+
+
+  // @media only screen and (max-width: $desktop) {
+  //   width: 100%;
+  // }
 }
 
 .card__title {
+  max-width: 800px;
   border-bottom: 1px solid #BFBFBF;
   font-size: 1.9rem;
 }
 
 .card__nav {
-  position: relative;
-  top: 30px; left: -220px;
-  float: right;
+  position: absolute;
+  top: 95px; left: 540px;
 }
 
 .card__cover {
   margin-bottom: $default-spacing;
-  max-width: 500px;
+  width: 500px;
   border: 5px solid #D8D8D8;
   border-radius: 5px;
 
@@ -107,7 +112,7 @@
 
 .card__text,
 .card__footer {
-  margin: 0 10px;
+  margin: 0 15px;
   width: 480px;
 }
 
@@ -190,6 +195,7 @@
 // -------------------------------------------------------
 
 .page-footer {
+  clear: left;
   padding: 22px;
   padding-top: 14px;
   background-color: #353131;

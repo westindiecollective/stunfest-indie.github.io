@@ -141,13 +141,12 @@ a {
   background-image: url("/static/images/assets/header-background-right.png"); }
 
 .page-wrapper {
-  display: table; }
+  background-color: #FBF3F1; }
 
 .page-nav {
-  display: table-cell;
+  float: left;
   padding: 40px 0;
-  width: 300px;
-  background-color: #FBF3F1; }
+  width: 300px; }
   .page-nav ::-moz-selection {
     background: #2498e5; }
   .page-nav ::selection {
@@ -167,28 +166,29 @@ a {
     color: #2498e5; }
 
 .page-content {
-  display: table-cell;
+  margin-left: 300px;
   padding-top: 100px;
-  padding-bottom: 40px; }
+  padding-bottom: 40px;
+  background-color: white; }
 
 .card {
-  width: 800px;
+  position: relative;
   margin: 0 50px;
   margin-bottom: 90px; }
 
 .card__title {
+  max-width: 800px;
   border-bottom: 1px solid #BFBFBF;
   font-size: 1.9rem; }
 
 .card__nav {
-  position: relative;
-  top: 30px;
-  left: -220px;
-  float: right; }
+  position: absolute;
+  top: 95px;
+  left: 540px; }
 
 .card__cover {
   margin-bottom: 24px;
-  max-width: 500px;
+  width: 500px;
   border: 5px solid #D8D8D8;
   border-radius: 5px; }
   .card__cover img {
@@ -202,7 +202,7 @@ a {
 
 .card__text,
 .card__footer {
-  margin: 0 10px;
+  margin: 0 15px;
   width: 480px; }
 
 .card__social {
@@ -261,6 +261,7 @@ a {
       color: #e25331; }
 
 .page-footer {
+  clear: left;
   padding: 22px;
   padding-top: 14px;
   background-color: #353131;
