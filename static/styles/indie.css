@@ -146,10 +146,15 @@ a {
     background-image: url("/static/images/assets/header-background-right.png"); } }
 @media only screen and (max-width: 500px) {
   .page-header {
-    position: relative;
+    position: fixed;
     padding: 10px;
-    background: #e25331;
-    text-align: center; }
+    width: 100%;
+    background: rgba(226, 83, 49, 0.95);
+    text-align: center;
+    z-index: 1;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box; }
     .page-header a {
       color: white; }
 
@@ -213,9 +218,6 @@ a {
   padding-bottom: 40px;
   background-color: white; }
 
-@media only screen and (max-width: 499px) {
-  .page-content {
-    padding-top: 30px; } }
 @media only screen and (max-width: 800px) {
   .page-wrapper {
     background-color: white; }

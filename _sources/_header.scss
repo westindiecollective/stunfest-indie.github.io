@@ -135,10 +135,14 @@
 // Just the data.
 @media only screen and (max-width: 500px) {
   .page-header {
-    position: relative;
+    position: fixed;
     padding: 10px;
-    background: $brand-color;
+    width: 100%;
+    background: rgba($brand-color, 0.95);
     text-align: center;
+    z-index: 1;
+
+    @include box-sizing(border-box);
 
     a { color: white; }
   }

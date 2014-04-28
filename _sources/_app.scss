@@ -78,12 +78,6 @@
 // Media-queries for .page-wrapper, .page-content and .page-nav.
 // -------------------------------------------------------
 
-@media only screen and (max-width: 499px) {
-  .page-content {
-    padding-top: 30px;
-  }
-}
-
 // Hide the menu.
 @media only screen and (max-width: 800px) {
   .page-wrapper {
