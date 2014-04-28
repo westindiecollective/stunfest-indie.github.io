@@ -167,7 +167,13 @@ a {
     background: url("/static/images/icons/hamburger.png") no-repeat;
     background-size: 36px 32px;
     text-indent: -9999px;
-    cursor: pointer; }
+    cursor: pointer;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none; }
 
   .header__facebook,
   .header__twitter {
