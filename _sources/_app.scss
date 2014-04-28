@@ -42,6 +42,14 @@
   color: #939393;
   font-size: 0.9rem;
 
+  li {
+    margin-bottom: 3px;
+  }
+
+  li:last-child {
+    margin-bottom: 0;
+  }
+
   a {
     color: #939393;
 

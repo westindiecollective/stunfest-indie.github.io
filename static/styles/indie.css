@@ -196,6 +196,10 @@ a {
   border-left: 3px solid #2498e5;
   color: #939393;
   font-size: 0.9rem; }
+  .page-nav__links li {
+    margin-bottom: 3px; }
+  .page-nav__links li:last-child {
+    margin-bottom: 0; }
   .page-nav__links a {
     color: #939393; }
     .page-nav__links a:hover {
