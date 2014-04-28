@@ -4,116 +4,175 @@
 // Header.
 // -------------------------------------------------------
 
-.page-header {
-  position: relative;
-  width: 100%;
-  height: 102px;
-  background: url("/static/images/assets/header-background.png") repeat-x;
-  background-size: auto 102px;
-}
+// Decoration when viewport > 500px.
+@media only screen and (min-width: 500px) {
 
-// -------------------------------------------------------
-// Wrapper + FB +Twitter + Banner.
-// -------------------------------------------------------
-
-.header__wrapper {
-  position: absolute;
-  left: 50%;
-  width: 432px; /* 61px * 2 + 310px */
-  margin-left: -216px;
-}
-
-//
-// Social.
-//
-
-.header__facebook,
-.header__twitter {
-  width: 61px;
-  height: 100px;
-  background-repeat: no-repeat;
-  background-image: url("/static/images/assets/header-social@1x.png");
-
-  a {
-    display: block;
-    width: 61px;
-    height: 100px;
-    text-indent: -9999px;
+  .page-header {
+    position: relative;
+    width: 100%;
+    height: 102px;
+    background: url("/static/images/assets/header-background.png") repeat-x;
+    background-size: auto 102px;
   }
-}
 
-.header__facebook {
-  float: left;
-  background-position: 0 0;
-  &:hover {
-    background-position: 0 -100px;
+  .header__hamburger {
+    display: none;
   }
-}
 
-.header__twitter {
-  float: right;
-  background-position: -61px 0;
-  &:hover {
-    background-position: -61px -100px;
+  // -------------------------------------------------------
+  // Wrapper + FB +Twitter + Banner.
+  // -------------------------------------------------------
+
+  .header__wrapper {
+    position: absolute;
+    left: 50%;
+    width: 432px; /* 61px * 2 + 310px */
+    margin-left: -216px;
   }
-}
 
-/* Retina for the fb/twitter spritesheet. */
-@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+  //
+  // Social.
+  //
+
   .header__facebook,
   .header__twitter {
-    /* Reference the @2x Sprite */
-    background-image: url("/static/images/assets/header-social@2x.png");
-    /* Translate the @2x sprite's dimensions back to 1x */
-    background-size: 122px 200px;
+    width: 61px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-image: url("/static/images/assets/header-social@1x.png");
+
+    a {
+      display: block;
+      width: 61px;
+      height: 100px;
+      text-indent: -9999px;
+    }
   }
-}
 
-//
-// Banner.
-//
-
-.header__banner {
-  margin-left: 61px;
-  padding: 25px;
-
-  // Size.
-  width: 310px;
-  height: 156px;
-  background: url("/static/images/assets/header-banner.png") no-repeat;
-  background-size: 310px 156px;
-
-  font-size: 3.3rem;
-  text-align: center;
-
-  @include box-sizing(border-box);
-
-  a {
-    &:focus  { color: $brand-color; }
-    &:active { color: $brand-color; }
+  .header__facebook {
+    float: left;
+    background-position: 0 0;
+    &:hover {
+      background-position: 0 -100px;
+    }
   }
+
+  .header__twitter {
+    float: right;
+    background-position: -61px 0;
+    &:hover {
+      background-position: -61px -100px;
+    }
+  }
+
+  /* Retina for the fb/twitter spritesheet. */
+  @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+    .header__facebook,
+    .header__twitter {
+      /* Reference the @2x Sprite */
+      background-image: url("/static/images/assets/header-social@2x.png");
+      /* Translate the @2x sprite's dimensions back to 1x */
+      background-size: 122px 200px;
+    }
+  }
+
+  //
+  // Banner.
+  //
+
+  .header__banner {
+    margin-left: 61px;
+    padding: 25px;
+
+    // Size.
+    width: 310px;
+    height: 156px;
+    background: url("/static/images/assets/header-banner.png") no-repeat;
+    background-size: 310px 156px;
+
+    font-size: 3.3rem;
+    text-align: center;
+
+    @include box-sizing(border-box);
+
+    a {
+      &:focus  { color: $brand-color; }
+      &:active { color: $brand-color; }
+    }
+  }
+
+  // -------------------------------------------------------
+  // Backgrounds.
+  // -------------------------------------------------------
+
+  .header__background--left,
+  .header__background--right {
+    position: absolute;
+    width: 15px;
+    height: 102px;
+    background-size: 15px 102px;
+    background-repeat: no-repeat;
+    top: 0;
+  }
+
+  .header__background--left {
+    left: 0;
+    background-image: url("/static/images/assets/header-background-left.png");
+  }
+
+  .header__background--right {
+    right: 0;
+    background-image: url("/static/images/assets/header-background-right.png");
+  }
+
 }
 
 // -------------------------------------------------------
-// Backgrounds.
+// Media-queries.
 // -------------------------------------------------------
 
-.header__background--left,
-.header__background--right {
-  position: absolute;
-  width: 15px;
-  height: 102px;
-  background-size: 15px 102px;
-  background-repeat: no-repeat;
-  top: 0;
-}
+// Remove all decoration for very small screen.
+// Just the data.
+@media only screen and (max-width: 500px) {
+  .page-header {
+    position: relative;
+    padding: 10px;
+    background: $brand-color;
+    text-align: center;
 
-.header__background--left {
-  left: 0;
-  background-image: url("/static/images/assets/header-background-left.png");
-}
+    a { color: white; }
+  }
 
-.header__background--right {
-  right: 0;
-  background-image: url("/static/images/assets/header-background-right.png");
+  .header__hamburger {
+    position: absolute;
+    top: 15px; left: 20px;
+
+    width: 36px;
+    height: 32px;
+
+    background: url("/static/images/icons/hamburger.png") no-repeat;
+    background-size: 36px 32px;
+
+    text-indent: -9999px;
+    cursor: pointer;
+  }
+
+  .header__facebook,
+  .header__twitter {
+    position: absolute;
+    right: 20px;
+    font-size: 0.8rem;
+  }
+
+  .header__facebook {
+    top: 12px;
+  }
+
+  .header__twitter {
+    bottom: 12px;
+  }
+
+  .header__banner {
+    font-size: 1.9rem;
+  }
 }

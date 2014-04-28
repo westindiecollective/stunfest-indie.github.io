@@ -67,6 +67,46 @@
 }
 
 // -------------------------------------------------------
+// Media-queries for .page-wrapper, .page-content and .page-nav.
+// -------------------------------------------------------
+
+@media only screen and (max-width: 499px) {
+  .page-content {
+    padding-top: 30px;
+  }
+}
+
+// Hide the menu.
+@media only screen and (max-width: 800px) {
+  .page-wrapper {
+    background-color: white;
+  }
+
+  .page-nav {
+    display: none;
+  }
+
+  .page-content {
+    margin-left: 0;
+  }
+}
+
+// Reduce the menu's size to 200px.
+@media only screen and (min-width: 800px) and (max-width: 1000px) {
+  .page-nav {
+    width: 200px;
+  }
+
+  .page-content {
+    margin-left: 200px;
+  }
+
+  .page-nav__links {
+    margin-left: 15px;
+  }
+}
+
+// -------------------------------------------------------
 // Card.
 // -------------------------------------------------------
 
@@ -74,11 +114,6 @@
   position: relative;
   margin: 0 50px;
   margin-bottom: 90px;
-
-
-  // @media only screen and (max-width: $desktop) {
-  //   width: 100%;
-  // }
 }
 
 .card__title {
@@ -191,6 +226,86 @@
 }
 
 // -------------------------------------------------------
+// Media-queries for card.
+// -------------------------------------------------------
+
+@media only screen and (max-width: 450px) {
+
+  // At this size, the card takes all the place it can.
+  .card {
+    // width: 360px !important;
+    width: auto !important;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  // Remove border, and let the image take the whole space.
+  .card__cover {
+    border: none;
+    margin-left: -20px;
+    margin-right: -20px;
+
+    img {
+
+    }
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  // Reduce the size of the card and image.
+  .card {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .card__cover {
+    width: auto;
+
+    img {
+      max-width: 100%;
+      width: auto;
+    }
+  }
+
+  // The text is not restricted anymore.
+  .card__text {
+    width: auto;
+    margin: 0;
+  }
+
+  // Change the layout of the footer:
+  // The metadata and presskit are now stacked.
+  .card__footer {
+    display: block;
+    width: auto;
+    text-align: center;
+
+    .card__metadata { display: block; margin-bottom: $default-spacing; }
+    .card__presskit { display: block; text-align:center; }
+  }
+}
+
+// Social icons behavior.
+// At this size, the social icons are put at the initial place.
+// Just below the title.
+@media only screen and (max-width: 900px) {
+  .card__nav {
+    position: static;
+  }
+
+  .card__social {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: $default-spacing;
+  }
+
+  .card__cover {
+    clear: left;
+  }
+}
+
+// -------------------------------------------------------
 // Footer.
 // -------------------------------------------------------
 
@@ -212,5 +327,13 @@
 
   .page-footer__pxn {
     font-size: 0.8rem;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+
+  // At this size, we reduce the size of the WIC label.
+  .page-footer__wic {
+    font-size: 1.4rem !important;
   }
 }
