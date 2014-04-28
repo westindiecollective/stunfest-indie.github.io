@@ -223,7 +223,37 @@ a {
     background-color: white; }
 
   .page-nav {
-    display: none; }
+    position: fixed;
+    top: 65px;
+    bottom: 0;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    margin-left: -300px;
+    padding: 0;
+    width: 300px;
+    background-color: rgba(251, 243, 241, 0.95);
+    z-index: 2; }
+
+  .page-nav__links {
+    margin: 0;
+    padding: 0;
+    padding-bottom: 100px;
+    border: none; }
+    .page-nav__links li {
+      margin: 0; }
+    .page-nav__links a {
+      display: block;
+      padding: 20px;
+      border-bottom: 1px solid #d8d8d8;
+      font-size: 1.2rem;
+      color: #323232; }
+      .page-nav__links a:hover {
+        background-color: rgba(226, 83, 49, 0.95);
+        border-color: white;
+        color: white;
+        text-decoration: none; }
+      .page-nav__links a:active, .page-nav__links a:focus {
+        background-color: #e8785e; }
 
   .page-content {
     margin-left: 0; } }
@@ -245,10 +275,16 @@ a {
   max-width: 800px;
   border-bottom: 1px solid #BFBFBF;
   font-size: 1.9rem; }
+  .card__title:before {
+    display: block;
+    content: " ";
+    margin-top: -70px;
+    height: 70px;
+    visibility: hidden; }
 
 .card__nav {
   position: absolute;
-  top: 95px;
+  top: 165px;
   left: 540px; }
 
 .card__cover {
