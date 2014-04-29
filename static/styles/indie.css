@@ -403,6 +403,11 @@ a {
     .card__footer .card__presskit {
       display: block;
       text-align: center; } }
+@media only screen and (min-width: 600px) and (max-width: 800px) {
+  .card {
+    width: 510px;
+    margin-left: auto;
+    margin-right: auto; } }
 @media only screen and (max-width: 900px) {
   .card__nav {
     position: static; }

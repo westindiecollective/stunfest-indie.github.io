@@ -299,10 +299,6 @@
     border: none;
     margin-left: -20px;
     margin-right: -20px;
-
-    img {
-
-    }
   }
 }
 
@@ -338,6 +334,14 @@
 
     .card__metadata { display: block; margin-bottom: $default-spacing; }
     .card__presskit { display: block; text-align:center; }
+  }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 800px) {
+  .card {
+    width: 510px;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
