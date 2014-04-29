@@ -1,5 +1,6 @@
 $(function () {
-  var SMALL_SIZE = 500;
+  var SMALL_SIZE = 500
+
   var w = $(window)
   var toggle = false
 
@@ -34,5 +35,11 @@ $(function () {
       // Reset toggle if activated.
       toggle && (toggle = false)
     }
+  })
+
+  // Lightbox
+  $('.card__cover a').magnificPopup({
+    type:'image',
+    closeOnContentClick: true
   })
 })
