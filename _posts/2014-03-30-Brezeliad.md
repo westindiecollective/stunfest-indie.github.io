@@ -16,5 +16,3 @@ image: "YoruNoHikage"
 
 Tower Defense / Action.
 Venez défendre les châteaux et tours de Brocéliande à l'aide d'armes et de sorts en tout genre. Des niveaux spéciaux sont même présents pour le Stunfest !
-
-<!-- Obligatoire: fournir une image PNG d'au moins 500px en largeur. -->
