@@ -59,7 +59,7 @@ a {
   background: #e25331;
   color: white; }
 
-@media only screen and (min-width: 500px) {
+@media only screen and (min-width: 800px) {
   .page-header {
     position: relative;
     width: 100%;
@@ -103,14 +103,14 @@ a {
       background-position: -61px -100px; }
 
   /* Retina for the fb/twitter spritesheet. */ }
-@media only screen and (min-width: 500px) and (-webkit-min-device-pixel-ratio: 2), only screen and (min-width: 500px) and (min-device-pixel-ratio: 2) {
+@media only screen and (min-width: 800px) and (-webkit-min-device-pixel-ratio: 2), only screen and (min-width: 800px) and (min-device-pixel-ratio: 2) {
   .header__facebook,
   .header__twitter {
     /* Reference the @2x Sprite */
     background-image: url("/static/images/assets/header-social@2x.png");
     /* Translate the @2x sprite's dimensions back to 1x */
     background-size: 122px 200px; } }
-@media only screen and (min-width: 500px) {
+@media only screen and (min-width: 800px) {
   .header__banner {
     margin-left: 61px;
     padding: 25px;
@@ -144,7 +144,7 @@ a {
   .header__background--right {
     right: 0;
     background-image: url("/static/images/assets/header-background-right.png"); } }
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 800px) {
   .page-header {
     position: fixed;
     padding: 10px;

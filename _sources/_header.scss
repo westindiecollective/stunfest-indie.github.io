@@ -4,8 +4,8 @@
 // Header.
 // -------------------------------------------------------
 
-// Decoration when viewport > 500px.
-@media only screen and (min-width: 500px) {
+// Decoration when viewport > 800px.
+@media only screen and (min-width: 800px) {
 
   .page-header {
     position: relative;
@@ -131,9 +131,8 @@
 // Media-queries.
 // -------------------------------------------------------
 
-// Remove all decoration for very small screen.
-// Just the data.
-@media only screen and (max-width: 500px) {
+// Remove all decoration for small screen.
+@media only screen and (max-width: 800px) {
   .page-header {
     position: fixed;
     padding: 10px;
