@@ -4,7 +4,7 @@
   <ul class="page-nav__links">
     {% for post in site.posts %}
       <li>
-        <a href="#{{ post.title }}">{{ post.title }}</a>
+        <a href="#{{ post.title | remove: ' ' | escape }}">{{ post.title }}</a>
       </li>
     {% endfor %}
   </ul>
