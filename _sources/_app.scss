@@ -255,16 +255,17 @@
   vertical-align: middle;
 
   a {
-    padding: 4px 15px 4px 45px;
+    padding: 4px 15px 4px 43px;
     width: 135px;
 
     background-color: $brand-color;
     background-image: url("/static/images/icons/presskit.png");
     background-repeat: no-repeat;
     background-size: 20px;
-    background-position: 15px center;
+    background-position: 13px center;
 
     border: 2px solid transparent;
+    border-radius: 5px;
 
     color: white;
 
@@ -274,6 +275,7 @@
     .desktop &:hover {
       border-color: $brand-color;
       background-color: #FBF3F1;
+      background-image: url("/static/images/icons/presskit-hover.png");
 
       color: $brand-color;
       text-decoration: none;
