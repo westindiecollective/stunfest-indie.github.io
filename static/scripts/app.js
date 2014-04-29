@@ -18,6 +18,8 @@ $(function () {
 
   // Slide on click on a list's item.
   $('#page-nav').delegate('a', 'click', function () {
+    // Do not slide on click if not on a small screen.
+    // (the hamburger is only used there)
     if (w.width() <= SMALL_SIZE) {
      slide()
     }
