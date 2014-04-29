@@ -8,6 +8,8 @@ facebook: "https://facebook.com/pixelneststudio"
 
 studio:    "Pixelnest Studio"
 platforms: "PC, Mac, Web, Mobile"
+
+image: "PixelnestStudio"
 ---
 
 Pixelnest Studio est une entreprise rennaise spécialisée dans le jeu vidéo et les applications web. Nous développons un nouveau shmup, un jeu multijoueur nommé Rampaint, le Shmupfest, mais aussi des plugins Unity et des sites internet.
