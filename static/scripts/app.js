@@ -1,7 +1,11 @@
 $(function () {
   var SMALL_SIZE = 800
+   var w = $(window)
 
-  var w = $(window)
+  // -------------------------------------------------------
+  // Hamburger menu.
+  // -------------------------------------------------------
+
   var toggle = false
 
   // Slide function.
@@ -37,7 +41,10 @@ $(function () {
     }
   })
 
-  // Lightbox
+  // -------------------------------------------------------
+  // Lightbox.
+  // -------------------------------------------------------
+
   $('.card__cover a').magnificPopup({
     type:'image',
     closeOnContentClick: true
