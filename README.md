@@ -1,3 +1,3 @@
 # indie.stunfest.fr
 
-Stunfest WIC website.
+Stunfest website.
