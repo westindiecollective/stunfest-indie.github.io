@@ -1,4 +1,6 @@
 $(function () {
+  var SMALL_SIZE = 500;
+  var w = $(window)
   var toggle = false
 
   // Slide function.
@@ -16,13 +18,14 @@ $(function () {
 
   // Slide on click on a list's item.
   $('#page-nav').delegate('a', 'click', function () {
-    slide()
+    if (w.width() <= SMALL_SIZE) {
+     slide()
+    }
   })
 
   // Window handler.
-  var w = $(window)
   w.resize(function () {
-    if (w.width() > 500) {
+    if (w.width() > SMALL_SIZE) {
       // Remove the margin modification when the size is normal.
       $('#page-nav').css('margin-left', '')
 
