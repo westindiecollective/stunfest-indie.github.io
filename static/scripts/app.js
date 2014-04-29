@@ -16,10 +16,11 @@ $(function () {
     $('#page-nav').animate({'margin-left': value}, 150, 'linear')
   }
 
-  // Add slide on click.
-  $('#hamburger').click(function () {
+  // Slide on touch/click of the hamburger.
+  var supportsTouch = 'createTouch' in document;
+  $('#hamburger').get(0)[supportsTouch ? 'ontouchstart' : 'onclick']= function () {
     slide()
-  })
+  }
 
   // Slide on click on a list's item.
   $('#page-nav').delegate('a', 'click', function () {
