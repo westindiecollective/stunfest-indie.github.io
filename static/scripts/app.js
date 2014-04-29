@@ -1,5 +1,5 @@
 $(function () {
-  var SMALL_SIZE = 500
+  var SMALL_SIZE = 800
 
   var w = $(window)
   var toggle = false
