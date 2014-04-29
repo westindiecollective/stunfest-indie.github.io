@@ -250,33 +250,36 @@
 
 .card__presskit {
   display: table-cell;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   text-align: right;
   vertical-align: middle;
 
   a {
-    padding: 5px 12px 5px 40px;
+    padding: 4px 15px 4px 45px;
     width: 135px;
 
-    background-color: #fbe5e5;
+    background-color: $brand-color;
     background-image: url("/static/images/icons/presskit.png");
     background-repeat: no-repeat;
     background-size: 20px;
-    background-position: 10px center;
-    border: 1px solid $brand-color;
-    border-radius: 5px;
+    background-position: 15px center;
+
+    border: 2px solid transparent;
+
+    color: white;
 
     @include box-sizing(border-box);
+    @include transition(all, 300ms);
 
     &:hover {
-      border-color: darken($brand-color, 7%);
-      box-shadow: 0 0 3px 2px rgba($brand-color, 0.2);
+      border-color: $brand-color;
+      background-color: #FBF3F1;
 
+      color: $brand-color;
       text-decoration: none;
     }
 
-    &:active { color: $brand-color; }
-    &:focus  { color: $brand-color; }
+    &:active, &:focus { color: lighten($brand-color, 20%); }
   }
 }
 

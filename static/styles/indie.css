@@ -342,30 +342,34 @@ a {
 
 .card__presskit {
   display: table-cell;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   text-align: right;
   vertical-align: middle; }
   .card__presskit a {
-    padding: 5px 12px 5px 40px;
+    padding: 4px 15px 4px 45px;
     width: 135px;
-    background-color: #fbe5e5;
+    background-color: #e25331;
     background-image: url("/static/images/icons/presskit.png");
     background-repeat: no-repeat;
     background-size: 20px;
-    background-position: 10px center;
-    border: 1px solid #e25331;
-    border-radius: 5px;
+    background-position: 15px center;
+    border: 2px solid transparent;
+    color: white;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
-    box-sizing: border-box; }
+    box-sizing: border-box;
+    -webkit-transition: all 300ms ease;
+    -moz-transition: all 300ms ease;
+    -ms-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    transition: all 300ms ease; }
     .card__presskit a:hover {
-      border-color: #d2401e;
-      box-shadow: 0 0 3px 2px rgba(226, 83, 49, 0.2);
+      border-color: #e25331;
+      background-color: #FBF3F1;
+      color: #e25331;
       text-decoration: none; }
-    .card__presskit a:active {
-      color: #e25331; }
-    .card__presskit a:focus {
-      color: #e25331; }
+    .card__presskit a:active, .card__presskit a:focus {
+      color: #ef9e8a; }
 
 @media only screen and (max-width: 450px) {
   .card {
