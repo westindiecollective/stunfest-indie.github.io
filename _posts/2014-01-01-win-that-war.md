@@ -15,10 +15,9 @@ image: WinThatWar
 
 Avec Win That War!, Insane Unity prépare un jeu de stratégie à la fois nerveux et massivement multijoueur.
 
-Vous incarnez un modeste employé de bureau enrolé malgré vous dans une guerre létale pour prendre le contrôle d'une exoplanète,
-dans le but d'en retirer un maximum de profit.
+Vous incarnez un modeste employé de bureau enrolé malgré lui dans une guerre létale pour prendre le contrôle d'une exoplanète, dans le but d'en retirer un maximum de profit.
 
 A l'abri de votre frégate, en orbite autour de la planète, vous déployez et commandez des unités robotisées.
 
-Plusieurs corporations s'affrontent pour la domination de la planète et les joueurs sont libres de coopérer ou de combattre à condition de respecter le réglement galactique d'exploitation.
+Plusieurs corporations s'affrontent pour la domination de la planète et les joueurs sont libres de coopérer ou de combattre à condition de respecter le règlement galactique d'exploitation.
 
