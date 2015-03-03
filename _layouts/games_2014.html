@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {% include 2014/meta.html %}
+  {% include 2014/styles.html %}
+</head>
+<body>
+  <div class="page" id="page">
+    {% include 2014/header.html %}
+
+    <div class="page-wrapper">
+      {% include 2014/nav.html %}
+
+      <div class="page-content">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include 2014/footer.html %}
+  </div>
+
+  {% include ga.html %}
+  {% include 2014/scripts.html %}
+</body>
+</html>
