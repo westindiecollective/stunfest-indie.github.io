@@ -1,0 +1,63 @@
+@charset "utf-8";
+
+// -------------------------------------------------------
+// Typography.
+// -------------------------------------------------------
+
+html {
+  color: #0e0e0e;
+  font-size: 105%;
+  font-family: Verdana, sans-serif;
+  font-weight: 400;
+  line-height: 1.4;
+}
+
+// -------------------------------------------------------
+// Wrapper.
+// -------------------------------------------------------
+
+.page {
+  margin: 0 auto;
+  max-width: 650px;
+}
+
+.page-header {
+  padding: 20px;
+
+  img {
+    max-width: 100%;
+  }
+
+  ul {
+    padding: 5px;
+    text-align: center;
+  }
+
+  li {
+    display: inline-block;
+    margin: 5px 10px;
+  }
+
+  a {
+    color: #e20020;
+    font-size: 1rem;
+    text-decoration: none;
+
+    &:hover {
+      color: #fb5a63;
+    }
+  }
+}
+
+h1, h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 50px;
+}
+
+h2:first-of-type {
+  margin-top: 0;
+}
