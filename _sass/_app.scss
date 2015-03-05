@@ -50,6 +50,12 @@ a {
     font-family: $font-pixel;
     font-size: 1.4rem;
   }
+
+   @media only screen and (max-width: 750px) {
+    li {
+      display: block;
+    }
+   }
 }
 
 // -------------------------------------------------------
@@ -84,7 +90,7 @@ h1 {
 }
 
 h2 {
-  margin-top: 50px;
+  margin-top: 60px;
   font-size: 2rem;
 }
 
