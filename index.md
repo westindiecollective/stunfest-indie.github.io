@@ -7,9 +7,9 @@ title: indie.stunfest.fr
 
 ## Espace jeux independants
 
-Pour sa nouvelle édition 2015 le festival [Stunfest](http://www.stunfest.fr) à une fois encore décidé de porter la création de jeux indépendants et d'auteur. Un espace sera dédié aux créations en tous genres, produites sur le territoire ou au national
+Pour sa nouvelle édition 2015 le festival [Stunfest](http://www.stunfest.fr) a une fois encore décidé de porter la création de jeux indépendants et d'auteur. Pour ce faire, un espace dédié sera consacré aux créations en tous genres, sur le territoire local ou national. 
 
-L'évènement réunira à nouveau un ensemble d'acteurs associés aux pratiques vidéoludiques contemporaines (Studios, éditeurs, universitaires, créateurs …)
+Cette année, l'évènement réunira de nouveau un ensemble d'acteurs associés aux pratiques vidéoludiques contemporaines (studios, éditeurs, universitaires, créateurs …).
 
 Le Stunfest met à disposition l’espace et les ressources nécessaires pour permettre aux studios invités de présenter leurs projets. Devant le nombre croissant de propositions chaque année et les contraintes d’espace, nous ne pouvons pas répondre positivement à toutes les demandes…
 
@@ -19,7 +19,7 @@ Le principe étant de pouvoir accueillir dans un coût raisonnable les diverses 
 
 ## Inscriptions
 
-Dans le but de réunir l’ensemble des vos propositions il vous est demandé de remplir ce formulaire de contact :
+Dans le but de réunir l’ensemble de vos propositions, nous vous prions de remplir ce formulaire de contact le plus précisément possible :
 
 [> ACCES AU FORMULAIRE D'INSCRIPTION <](https://docs.google.com/forms/d/1FfV79BpylxmWp1Q12WrarKvcfse6_C69eGPCy6gIecY/viewform)
 
