@@ -5,25 +5,27 @@ title: indie.stunfest.fr
 
 # Stunfest 2015
 
-## Espace jeux indépendants
+## Espace jeux independants
 
-Pour sa nouvelle édition 2015 le festival [Stunfest](http://www.stunfest.fr) à une fois encore décidé de porter la création de jeux indépendants et d'auteur. Pour ce faire un espace dédié sera consacré aux créations en tous genres, produites au local comme au national.
+Pour sa nouvelle édition 2015 le festival [Stunfest](http://www.stunfest.fr) à une fois encore décidé de porter la création de jeux indépendants et d'auteur. Un espace sera dédié aux créations en tous genres, produites sur le territoire ou au national
 
-L'évènement réunira à nouveau une fois cette année un ensemble d'acteurs associés aux pratiques vidéoludiques contemporaines (Studios, éditeurs, universitaires, créateurs …).
+L'évènement réunira à nouveau un ensemble d'acteurs associés aux pratiques vidéoludiques contemporaines (Studios, éditeurs, universitaires, créateurs …)
 
-Pour ce faire le festival mettra à disposition un ensemble de commodités d'accueil à destination des studios invités. Le principe est de pouvoir accueillir dans un coût raisonnable les diverses propositions composant la playlist des jeux de cette année, tout en restant dans un esprit festivalier et non salon de vente.
+Le Stunfest met à disposition l’espace et les ressources nécessaires pour permettre aux studios invités de présenter leurs projets. Devant le nombre croissant de propositions chaque année et les contraintes d’espace, nous ne pouvons pas répondre positivement à toutes les demandes…
+
+Le principe étant de pouvoir accueillir dans un coût raisonnable les diverses propositions composant la playlist des jeux de cette année, tout en restant dans un esprit de festival et non de salon de vente.
 
 **Nous ne serons donc pas en mesure d'accéder toutes vos propositions et nous en sommes d'avance désolés.**
 
 ## Inscriptions
 
-Dans le but de réunir l’ensemble des vos propositions il vous est demandé de remplir ce formulaire de contact.
+Dans le but de réunir l’ensemble des vos propositions il vous est demandé de remplir ce formulaire de contact :
 
-[Accès au formulaire d'inscription](todo)
+[> ACCES AU FORMULAIRE D'INSCRIPTION <](https://docs.google.com/forms/d/1FfV79BpylxmWp1Q12WrarKvcfse6_C69eGPCy6gIecY/viewform)
 
 Nous vous informerons ensuite au plus vite si votre participation est possible ou non.
 
-## Modalités de participation
+## Modalites de participation
 
 ### Tarifs
 
@@ -31,16 +33,16 @@ Si votre participation est retenue, voici le tarif pour exposer votre projet :
 
 **75 €** :
 
-- un *stand* pour votre projet
-- 1 pass exposant (voir ci-dessous)
+- Un *stand* pour votre projet
+- Un pass exposant (voir ci-dessous)
 - Un format A6 imprimé dans le livret spécial indie distribué pendant le festival
 - Mise en relation par le biais d'un annuaire partagé
-- L'accès à de **possibles** Master class
+- L'accès à de **possibles** Masterclass
 
 **55 €** :
 
-- 1 pass exposant supplémentaire
-- maximum 2 pass supplémentaires par projet (donc 3 en tout)
+- Un pass exposant supplémentaire
+- Maximum 2 pass supplémentaires par projet (donc 3 en tout)
 
 ### Détail du pass exposant
 
@@ -48,8 +50,9 @@ Si votre participation est retenue, voici le tarif pour exposer votre projet :
 - Un accueil catering (deux repas par jour)
 - Accès au point chaud (café, boissons)
 
-## Dates clés
+## Dates cles
 
-(A venir)
-
-- 22-24 mai 2015 : Stunfest
+- **05 mars 2015** Ouverture des inscriptions stand indés
+- **13 avril 2015** **Arrêt** des inscriptions
+- **27 avril 2015** Sélection des projets et contact des participants
+- **22-24 mai 2015** Stunfest
