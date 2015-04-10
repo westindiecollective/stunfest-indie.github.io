@@ -19,11 +19,7 @@ Le principe étant de pouvoir accueillir dans un coût raisonnable les diverses 
 
 ## Inscriptions
 
-Dans le but de réunir l’ensemble de vos propositions, nous vous prions de remplir ce formulaire de contact le plus précisément possible :
-
-[> ACCES AU FORMULAIRE D'INSCRIPTION <](https://docs.google.com/forms/d/1FfV79BpylxmWp1Q12WrarKvcfse6_C69eGPCy6gIecY/viewform)
-
-Nous vous informerons ensuite au plus vite si votre participation est possible ou non.
+**Les inscriptions sont désormais closes, la liste des projets retenus sera dévoilée très rapidement.**
 
 ## Modalites de participation
 
@@ -53,6 +49,6 @@ Si votre participation est retenue, voici le tarif pour exposer votre projet :
 ## Dates cles
 
 - **05 mars 2015** Ouverture des inscriptions stand indés
-- **13 avril 2015** **Arrêt** des inscriptions
-- **27 avril 2015** Sélection des projets et contact des participants
+- **10 avril 2015** **Arrêt** des inscriptions
+- **15 avril 2015** Sélection des projets et contact des participants
 - **22-24 mai 2015** Stunfest
