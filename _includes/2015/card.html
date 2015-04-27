@@ -1,0 +1,38 @@
+<section class="card">
+  <h2 class="card__title" id="{{ post.title | remove: ' ' | escape }}">{{ post.title }}</h2>
+
+  <nav class="card__nav">
+      {% if post.website %}
+      <li>
+        <a href="{{ post.website }}" class="card__social card__social--website">Website</a>
+      </li>
+      {% endif %}
+    </ul>
+  </nav>
+
+  <article class="card__content">
+    <div class="card__cover">
+      <a href="{{ post.website }}">
+        <img src="{{ post.boxart }}" alt="{{ post.title }}" />
+      </a>
+    </div>
+
+    <div class="card__text">{{ post.content }}</div>
+  </article>
+
+  <footer class="card__footer">
+    <div class="card__metadata">
+      {{ post.studio }}
+
+      {% if post.platforms %}
+        - {{ post.platforms }}
+      {% endif %}
+    </div>
+
+      {% if post.presskit %}
+    <div class="card__presskit">
+      <a href="{{ post.presskit }}">Press Kit</a>
+    </div>
+      {% endif %}
+  </footer>
+</section>

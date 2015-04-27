@@ -4,9 +4,9 @@
   <ul class="page-nav__links">
     {% for post in site.posts %}
       {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
-      {% if year == "2014"%}
+      {% if year == "2015"%}
         <li>
-          <a href="#{{ post.title | remove: ' ' | escape }}">{{ post.title }}</a>
+          <a href="#{{ post.title | remove: ' ' | escape }}">{{ post.title }} - {{ post.studio }}</a>
         </li>
       {% endif %}
     {% endfor %}
