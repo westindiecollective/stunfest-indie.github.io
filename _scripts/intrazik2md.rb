@@ -106,7 +106,7 @@ end
 games = Hash[games.sort]
 
 # Write files
-date = Date.new(2015,1,1)
+date = Date.new(2015,12,31)
 
 games.each do |n, c|
 
@@ -116,6 +116,6 @@ games.each do |n, c|
   f.write c
   f.close
 
-  date += 3
+  date -= 3
 end
 
