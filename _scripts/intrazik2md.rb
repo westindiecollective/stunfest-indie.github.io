@@ -5,7 +5,7 @@
 require 'date'
 
 # Private: generate a markdown file from an entry
-def generate(raw, d)
+def generate(raw)
 
   fields = raw.split('";"')
 
@@ -36,32 +36,32 @@ def generate(raw, d)
 
   safename.gsub!(/__+/, "_")
 
-  release.gsub!(/^.*(:)/, '')
-
   if safename[safename.length - 1] == "_" then
     safename[safename.length - 1] = ''
   end
 
-  puts name + " by " + studio + " ("+release+")"
+  safename = safename.downcase
 
-  f = File.new("generated/#{d.strftime '%Y-%m-%d'}-"+safename+".md", "w")
+  release.gsub!(/^.*(:)/, '')
 
-  f.write "---\n"
-  f.write "title:     #{name}\n"
-  f.write "website:   #{website}\n"
-  f.write "studio:    #{studio}\n"
-  f.write "platforms: #{platforms}\n"
-  f.write "screen1:   #{screen1}\n"
-  f.write "screen2:   #{screen2}\n"
-  f.write "screen3:   #{screen3}\n"
-  f.write "boxart:    #{boxart}\n"
-  f.write "video:     #{video}\n"
-  f.write "release:   #{release}\n"
-  f.write "---\n"
-  f.write "\n"
-  f.write "#{description}"
+  content = ""
 
-  f.close
+  content += "---\n"
+  content += "title:     #{name}\n"
+  content += "website:   #{website}\n"
+  content += "studio:    #{studio}\n"
+  content += "platforms: #{platforms}\n"
+  content += "screen1:   #{screen1}\n"
+  content += "screen2:   #{screen2}\n"
+  content += "screen3:   #{screen3}\n"
+  content += "boxart:    #{boxart}\n"
+  content += "video:     #{video}\n"
+  content += "release:   #{release}\n"
+  content += "---\n"
+  content += "\n"
+  content += "#{description}"
+
+  return safename, content
 
 end
 
@@ -88,14 +88,34 @@ data=data.gsub(/\r/, '')
 # Newlines inside rows so I had to find a hack to detect entry. FUCK
 columns = data.split(/;"";"";"""/)
 
-date = Date.new(2015,1,1)
 count = 1
+games = {}
+
 columns.each do |c|
 
   if count > 1 then
-    generate(c, date)
+    name, content = generate(c)
+
+    games[name] = content
   end
   count += 1
-  date += 3
 
 end
+
+# Sort by name
+games = Hash[games.sort]
+
+# Write files
+date = Date.new(2015,1,1)
+
+games.each do |n, c|
+
+  puts n
+
+  f = File.new("generated/#{date.strftime '%Y-%m-%d'}-"+n+".md", "w")
+  f.write c
+  f.close
+
+  date += 3
+end
+
