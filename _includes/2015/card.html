@@ -13,7 +13,11 @@
   <article class="card__content">
     <div class="card__cover">
       <a href="{{ post.website }}">
-        <img src="{{ post.boxart }}" alt="{{ post.title }}" />
+        {% if post.boxart != nil %}
+          <img src="{{ post.boxart }}" alt="{{ post.title }}" />
+        {% else %}
+          <img src="{{ post.screen1 }}" alt="{{ post.title }}" />
+        {% endif %}
       </a>
     </div>
 
