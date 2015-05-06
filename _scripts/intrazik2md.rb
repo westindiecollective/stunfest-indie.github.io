@@ -97,10 +97,13 @@ columns.each do |c|
     name, content = generate(c)
 
     games[name] = content
+
+    puts "#{name}"
   end
   count += 1
-
 end
+
+puts "#{count-1} games found."
 
 # Sort by name
 games = Hash[games.sort]
