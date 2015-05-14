@@ -2,7 +2,7 @@
 title:     Tetrobot and Co.
 website:   http://www.tetrobot.com
 studio:    Swing Swing Submarine
-platforms: Windows,OSX,Linux,iOS,Android,Console
+platforms: Windows, OSX, Linux, iOS, Android, Console
 screen1:   http://files.intrazik.com/231/swing-swing-submarine-screenshot-1-3133-493-20150423-112719.jpg
 screen2:   http://files.intrazik.com/231/swing-swing-submarine-screenshot-2-3371-493-20150423-112719.jpg
 screen3:   http://files.intrazik.com/231/swing-swing-submarine-screenshot-3-3373-493-20150423-112720.jpg
@@ -13,6 +13,6 @@ release:   Octobre 2013 (PC) / Octobre 2014 (WiiU) / Avril 2015 (iOS, Android)
 
 **Tetrobot and Co.** est un pur jeu de réflexion, créé par et pour des joueurs qui aiment faire travailler leurs neurones.
 
-Guidez Psychobot, un microscopique robot réparateur, dans les engrenages et les circuits de Tetrobot : en absorbant des blocs de matière et en les recrachant, vous pouvez tout remettre en place ! 
+Guidez Psychobot, un microscopique robot réparateur, dans les engrenages et les circuits de Tetrobot : en absorbant des blocs de matière et en les recrachant, vous pouvez tout remettre en place !
 
 Facile à prendre en main, Tetrobot and Co. peut être jouer par tous. Mais vous aurez besoin d'avoir un cerveau bien entrainé si vous voulez venir à bout de ses énigmes les plus retorses.

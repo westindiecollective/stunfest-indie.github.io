@@ -3,11 +3,9 @@ layout: games_2015
 title: indie.stunfest.fr
 ---
 
-<ul>
-  {% for post in site.posts %}
-    {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
-    {% if year == "2015"%}
-      {% include 2015/card.html param = post %}
-    {% endif %}
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+  {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+  {% if year == "2015"%}
+    {% include 2015/card.html param = post %}
+  {% endif %}
+{% endfor %}
