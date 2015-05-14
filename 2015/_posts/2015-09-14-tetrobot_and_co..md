@@ -11,4 +11,8 @@ video:     https://www.youtube.com/watch?v=snQKXpnqkW8
 release:   Octobre 2013 (PC) / Octobre 2014 (WiiU) / Avril 2015 (iOS, Android)
 ---
 
-Tetrobot and Co. est un pur jeu de réflexion, créé par et pour des joueurs qui aiment faire travailler leurs neurones. Guidez Psychobot, un microscopique robot réparateur, dans les engrenages et les circuits de Tetrobot : en absorbant des blocs de matière et en les recrachant, vous pouvez tout remettre en place ! Facile à prendre en main, Tetrobot and Co. peut être jouer par tous. Mais vous aurez besoin d'avoir un cerveau bien entrainé si vous voulez venir à bout de ses énigmes les plus retorses.
+**Tetrobot and Co.** est un pur jeu de réflexion, créé par et pour des joueurs qui aiment faire travailler leurs neurones.
+
+Guidez Psychobot, un microscopique robot réparateur, dans les engrenages et les circuits de Tetrobot : en absorbant des blocs de matière et en les recrachant, vous pouvez tout remettre en place ! 
+
+Facile à prendre en main, Tetrobot and Co. peut être jouer par tous. Mais vous aurez besoin d'avoir un cerveau bien entrainé si vous voulez venir à bout de ses énigmes les plus retorses.
