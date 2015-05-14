@@ -11,4 +11,6 @@ video:     https://youtu.be/U_zfc2tdtx4
 release:   fin 2016
 ---
 
-Win That War! est un jeu de stratégie en temps réel massivement multijoueur  qui prend place dans un univers rétro-futur original, inspiré de la science-fiction des années 50. A termes plusieurs centaines de joueurs pourront interagir sur une même planète et se livrer bataille ou au contraire coopérer pour servir les objectifs stratégiques de leur corporation. Pendant le Stunfest, nous vous proposons de tester le mode multijoueur local de notre version Alpha 0.3, à plusieurs, ou seul contre l'IA. Construisez votre armée, gérer vos ressources, défendez votre base et que le plus grand stratège gagne.
+**Win That War!** est un jeu de stratégie en temps réel massivement multijoueur  qui prend place dans un univers rétro-futur original, inspiré de la science-fiction des années 50. A termes plusieurs centaines de joueurs pourront interagir sur une même planète et se livrer bataille ou au contraire coopérer pour servir les objectifs stratégiques de leur corporation. 
+
+Pendant le Stunfest, nous vous proposons de tester le mode multijoueur local de notre version Alpha 0.3, à plusieurs, ou seul contre l'IA. Construisez votre armée, gérer vos ressources, défendez votre base et que le plus grand stratège gagne.
