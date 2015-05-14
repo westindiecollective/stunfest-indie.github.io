@@ -1,7 +1,7 @@
 ---
 title:     Tetrobot and Co.
-website:   www.tetrobot.com
-studio:    SWING SWING SUBMARINE
+website:   http://www.tetrobot.com
+studio:    Swing Swing Submarine
 platforms: Windows,OSX,Linux,iOS,Android,Console
 screen1:   http://files.intrazik.com/231/swing-swing-submarine-screenshot-1-3133-493-20150423-112719.jpg
 screen2:   http://files.intrazik.com/231/swing-swing-submarine-screenshot-2-3371-493-20150423-112719.jpg

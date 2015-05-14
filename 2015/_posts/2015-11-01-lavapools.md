@@ -1,7 +1,7 @@
 ---
 title:     Lavapools
 website:   http://lavapools.com
-studio:    4EDGESGAMES
+studio:    4EdgesGames
 platforms: Windows
 screen1:   http://files.intrazik.com/231/4edgesgames-screenshot-1-3133-493-20150420-191020.png
 screen2:   
@@ -11,4 +11,6 @@ video:     https://www.youtube.com/watch?v=xLIjTCvMfKg
 release:   30/05/2015
 ---
 
-Jeu d'esquive hardcore où l'on incarne un crabe. Jeu solo très difficile pour hardcore gamers, bien que très accessible.
+**Lavapools** est un jeu d'esquive hardcore où l'on incarne un crabe. 
+
+C'est un jeu solo très difficile pour hardcore gamers, bien que très accessible.

@@ -1,7 +1,7 @@
 ---
 title:     NeuroVoider
 website:   http://neurovoider.flying-oak.com/
-studio:    FLYING OAK GAMES
+studio:    Flying Oak Games
 platforms: Windows,Console
 screen1:   http://files.intrazik.com/231/flying-oak-games-screenshot-1-3133-493-20150429-134944.png
 screen2:   http://files.intrazik.com/231/flying-oak-games-screenshot-2-3371-493-20150429-134944.png
@@ -11,4 +11,6 @@ video:
 release:   01/09/2015
 ---
 
-NeuroVoider est un shoot rogue-like, jouable à 4 en coopération. Combattez la horde de robots sentinelles, améliorer votre cyborg avec leurs restes et éliminez le Master NeuroVoider.
+**NeuroVoider** est un shoot rogue-like, jouable à 4 en coopération. 
+
+Combattez la horde de robots sentinelles, améliorer votre cyborg avec leurs restes et éliminez le Master NeuroVoider.
