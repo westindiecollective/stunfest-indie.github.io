@@ -11,4 +11,8 @@ video:     https://www.youtube.com/watch?v=CInqEeewXnc
 release:   21/04/2016 (espéré)
 ---
 
-Tasukete Tako-San est un jeu d'action/plateforme à l'ancienne dont le développement à commencé pour les 25 ans du Game Boy. Vous incarnez Mr Tako, un poulpe refusant de partir en guerre contre les humains, dans un monde 8bit aux couleurs du Game Boy. Il peut cracher de l'encre, ce qui change les ennemis en plateforme, et peu aussi trouver un des 35 pouvoirs supplémentaires afin de progresser dans sa quête. Le jeu contient un mode Histoire, un mode Runner avec un monde généré semi aléatoirement et un scrolling forcé, ainsi qu'un mode Multijoueur en Coopération et Versus en arène (jusqu'à 4 joueurs).
+**Tasukete Tako-San** est un jeu d'action/plateforme à l'ancienne dont le développement à commencé pour les 25 ans du Game Boy.
+
+Vous incarnez Mr Tako, un poulpe refusant de partir en guerre contre les humains, dans un monde 8bit aux couleurs du Game Boy. Il peut cracher de l'encre, ce qui change les ennemis en plateforme, et peu aussi trouver un des 35 pouvoirs supplémentaires afin de progresser dans sa quête. 
+
+Le jeu contient un mode Histoire, un mode Runner avec un monde généré semi aléatoirement et un scrolling forcé, ainsi qu'un mode Multijoueur en Coopération et Versus en arène (jusqu'à 4 joueurs).
