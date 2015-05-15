@@ -7,7 +7,7 @@ title: indie.stunfest.fr
 
 ## Espace jeux independants
 
-Pour sa nouvelle édition 2015 le festival [Stunfest](http://www.stunfest.fr) a une fois encore décidé de porter la création de jeux indépendants et d'auteur. Pour ce faire, un espace dédié sera consacré aux créations en tous genres, sur le territoire local ou national. 
+Pour sa nouvelle édition 2015 le festival [Stunfest](http://www.stunfest.fr) a une fois encore décidé de porter la création de jeux indépendants et d'auteur. Pour ce faire, un espace dédié sera consacré aux créations en tous genres, sur le territoire local ou national.
 
 Cette année, l'évènement réunira de nouveau un ensemble d'acteurs associés aux pratiques vidéoludiques contemporaines (studios, éditeurs, universitaires, créateurs …).
 
@@ -50,5 +50,5 @@ Si votre participation est retenue, voici le tarif pour exposer votre projet :
 
 - **05 mars 2015** Ouverture des inscriptions stand indés
 - **10 avril 2015** **Arrêt** des inscriptions
-- **15 avril 2015** Sélection des projets et contact des participants
+- **15 avril 2015** Sélection des projets
 - **22-24 mai 2015** Stunfest
