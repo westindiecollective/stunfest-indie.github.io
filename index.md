@@ -7,21 +7,25 @@ title: indie.stunfest.fr
 
 ## Espace jeux independants
 
-Pour sa nouvelle édition 2015 le festival [Stunfest](http://www.stunfest.fr) a une fois encore décidé de porter la création de jeux indépendants et d'auteur. Pour ce faire, un espace dédié sera consacré aux créations en tous genres, sur le territoire local ou national.
+Cette nouvelle édition du [Stunfest](http://www.stunfest.fr) est l'occasion pour vous d'essayer des **jeux indépendants** inédits et de **rencontrer leurs créateurs**.
 
-Cette année, l'évènement réunira de nouveau un ensemble d'acteurs associés aux pratiques vidéoludiques contemporaines (studios, éditeurs, universitaires, créateurs …).
+Nous vous proposons un panel de **36 jeux** représentant la diversité de cette vague vidéoludique émergente. 
+Au programme : jeux PC et console, bornes customisées, expériences en réalité virtuelle, jeux multijoueurs et installations inédites.
 
-Le Stunfest met à disposition l’espace et les ressources nécessaires pour permettre aux studios invités de présenter leurs projets. Devant le nombre croissant de propositions chaque année et les contraintes d’espace, nous ne pouvons pas répondre positivement à toutes les demandes…
+**[Voir les jeux présents au Stunfest 2015](/2015/)**
 
-Le principe étant de pouvoir accueillir dans un coût raisonnable les diverses propositions composant la playlist des jeux de cette année, tout en restant dans un esprit de festival et non de salon de vente.
+Deux prix seront remis aux jeux indépendants au cours du festival. 
 
-**Nous ne serons donc pas en mesure d'accéder toutes vos propositions et nous en sommes d'avance désolés.**
+- Un **prix d’encouragement** sera remis par un jury présidé par [Doug Alves](https://twitter.com/_adoru_) à l’un des jeux sélectionnés 
+- Un **prix du public** sera remis au coup de coeur des visiteurs
 
-## Inscriptions
-
-**Les inscriptions sont désormais closes, la liste des projets retenus sera dévoilée très rapidement.**
+Nous vous souhaitons une bonne découverte et rappelez-vous que l'avis d'un joueur est précieux pour un développeur alors n'hésitez pas à échanger avec eux.
 
 ## Modalites de participation
+
+### Inscriptions
+
+**Les inscriptions sont désormais closes.**
 
 ### Tarifs
 
@@ -46,7 +50,7 @@ Si votre participation est retenue, voici le tarif pour exposer votre projet :
 - Un accueil catering (deux repas par jour)
 - Accès au point chaud (café, boissons)
 
-## Dates cles
+## Dates clées
 
 - **05 mars 2015** Ouverture des inscriptions stand indés
 - **10 avril 2015** **Arrêt** des inscriptions
