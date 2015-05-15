@@ -1,5 +1,5 @@
 ---
-title:     Tasukete Tako-San: Save me Mr Tako!
+title:     Tasukete Tako-San - Save me Mr Tako!
 website:   http://www.indiedb.com/games/tasukete-tako-san-save-me-mr-tako
 studio:    Chrisdeneos
 platforms: Windows, OSX, Linux, Autre
