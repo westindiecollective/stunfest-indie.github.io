@@ -17,6 +17,6 @@ Comparable à un pacman hardcore et modernisé, votre seul outil contre les scie
 
 Orienté speedrunning, leaderboard et scoring, il ravira les amateurs de jeux hardcore. 
 
-Créé pendant plus d'une année, il est actuellement en préparation pour une sortie Steam prévue dans l'été 2014. 
+Créé pendant plus d'une année, il est actuellement en préparation pour une sortie Steam prévue pour 2015. 
 
 Des graphismes rétro, une bande son à la guitare éléctrique et un rythme endiablé, infernale sont les principales caractéristiques du jeu.
