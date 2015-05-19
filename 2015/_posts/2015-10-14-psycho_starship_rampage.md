@@ -1,7 +1,7 @@
 ---
 title:     Psycho Starship Rampage
 website:   http://www.ballisticfrogs.com
-studio:    Ballitic Frogs
+studio:    Ballistic Frogs
 platforms: Windows, OSX, Linux
 screen1:   http://files.intrazik.com/231/ballistic-frogs-screenshot-1-3133-493-20150419-182038.png
 screen2:   http://files.intrazik.com/231/ballistic-frogs-screenshot-2-3371-493-20150419-182038.png
