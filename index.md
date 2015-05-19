@@ -21,6 +21,8 @@ Deux prix seront remis aux jeux indépendants au cours du festival.
 
 Nous vous souhaitons une bonne découverte et rappelez-vous que l'avis d'un joueur est précieux pour un développeur alors n'hésitez pas à échanger avec eux.
 
+Cet espace vous est proposé par 3hitcombo, [Pixelnest Studio](http://pixelnest.io) et le West Indie Collective.
+
 ## Modalites de participation
 
 ### Inscriptions
