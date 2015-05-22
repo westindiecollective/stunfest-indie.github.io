@@ -1,6 +1,6 @@
 ---
 title:     Win That War!
-website:   www.winthatwar.com
+website:   http://www.winthatwar.com
 studio:    Insane Unity
 platforms: Windows
 screen1:   http://files.intrazik.com/231/insane-unity-screenshot-1-3133-493-20150422-105927.png
