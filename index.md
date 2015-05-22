@@ -14,9 +14,7 @@ Au programme : jeux PC et console, bornes customisées, expériences en réalit�
 
 **[Voir les jeux présents au Stunfest 2015](/2015/)**
 
-Découvrez le bundle des jeux indépendants présentés ! Cliquez sur l'image pour y accéder :
-
-[![bundle](http://i.imgur.com/LUvrZGj.png)](http://itch.io/b/27/stunfest-indie-bundle-2015)
+**[Découvrez le bundle des jeux indépendants présentés ! ](http://itch.io/b/27/stunfest-indie-bundle-2015)**
 
 Deux prix seront remis aux jeux indépendants au cours du festival. 
 
