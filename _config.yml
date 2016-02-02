@@ -1,7 +1,6 @@
 name: indie.stunfest.fr
 
 # Code
-highlighter: pygments
 exclude: ['_raws', '.gitignore', 'Gemfile*']
 
 # Permalink format (without day)
@@ -12,4 +11,8 @@ paginate_path: ':num'
 paginate: 500
 
 # Markdown formatter
-markdown: redcarpet
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
