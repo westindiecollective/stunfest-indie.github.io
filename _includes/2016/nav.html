@@ -1,0 +1,14 @@
+<nav class="page-nav" id="page-nav">
+  <!-- Post links. -->
+  <ul class="page-nav__links">
+    {% for post in site.posts %}
+      {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+      {% if year == "2016"%}
+        <li>
+          <a href="#{{ post.title | remove: ' ' | escape }}">{{ post.title }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+</nav>
