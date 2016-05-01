@@ -10,16 +10,17 @@ title: indie.stunfest.fr
 Cette nouvelle édition du [Stunfest](http://www.stunfest.fr) est l'occasion pour vous d'essayer des **jeux indépendants** inédits et de **rencontrer leurs créateurs**.
 
 Nous vous proposons un panel de **36 jeux** représentant la diversité de cette vague vidéoludique émergente.
-Au programme : jeux PC et console, bornes customisées, expériences en réalité virtuelle, jeux multijoueurs et installations inédites.
+Au programme : jeux PC et console, expériences en réalité virtuelle et jeux multijoueurs.
 
-**[Voir les jeux présents au Stunfest 2015](/2015/)**
+**[Voir les jeux présents au Stunfest 2016](/2016/)**
 
-**[Découvrez le bundle des jeux indépendants présentés ! ](http://itch.io/b/27/stunfest-indie-bundle-2015)**
+**[Découvrez bientôt le bundle des jeux indépendants présentés ! ](https://stunfest.itch.io)**
 
-Deux prix seront remis aux jeux indépendants au cours du festival.
-
-- Un **prix d’encouragement** sera remis par un jury présidé par [Doug Alves](https://twitter.com/_adoru_) à l’un des jeux sélectionnés
-- Un **prix du public** sera remis au coup de coeur des visiteurs
+Les jeux seront examinés et primés dans quatre catégories :
+- “Stun Jam” (jeux créés le weekend précédant le Stunfest)
+- Espoir
+- Prix du Public
+- Grand Prix du Jury.
 
 Nous vous souhaitons une bonne découverte et rappelez-vous que l'avis d'un joueur est précieux pour un développeur alors n'hésitez pas à échanger avec eux.
 

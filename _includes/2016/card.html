@@ -22,10 +22,19 @@
   <footer class="card__footer">
     {% if post.studio %}
       <p class="card__metadata">
+        {% if post.subgenre %}
+          {{ post.subgenre }}
+        {% endif %}
+        {% if post.players %}
+          - {{ post.players }}
+        {% endif %}
         {{ post.studio }}
 
         {% if post.platforms %}
           - {{ post.platforms }}
+        {% endif %}
+        {% if post.release %}
+          Sortie le {{ post.release }}
         {% endif %}
       </p>
     {% endif %}
