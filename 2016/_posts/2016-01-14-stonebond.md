@@ -1,5 +1,5 @@
 ---
-title:     Stonebond: The Gargolye's Domain
+title:     "Stonebond: The Gargolye's Domain"
 website:   https://www.facebook.com/i3gamejam
 studio:    i3 Game Jam
 subgenre:  Couch Versus
