@@ -38,11 +38,18 @@ a {
   max-width: 1000px;
 }
 
-.page-wrapper {
+.page-wrapper-2016 {
   margin: 0 auto;
   width: 100%;
   max-width: 650px;
   display: inline-block;
+  vertical-align: top;
+}
+
+.page-wrapper {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 650px;
   vertical-align: top;
 }
 
