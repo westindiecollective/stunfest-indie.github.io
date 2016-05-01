@@ -28,11 +28,15 @@
         {% if post.players %}
           - {{ post.players }}
         {% endif %}
+      </p>
+      <p class="card__metadata">
         {{ post.studio }}
 
         {% if post.platforms %}
           - {{ post.platforms }}
         {% endif %}
+      </p>
+      <p class="card__metadata">
         {% if post.release %}
           Sortie le {{ post.release }}
         {% endif %}

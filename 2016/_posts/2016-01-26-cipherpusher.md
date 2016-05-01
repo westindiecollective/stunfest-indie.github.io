@@ -8,7 +8,7 @@ platforms: PC Windows
 screen1:
 screen2:
 screen3:
-boxart:    /static/images/covers/2016/cipherpusher.png
-video: 
+boxart:    /static/images/covers/2016/cipherpusher.jpg
+video:
 release:
 ---
