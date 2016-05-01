@@ -17,6 +17,7 @@ Au programme : jeux PC et console, expériences en réalité virtuelle et jeux m
 **[Découvrez bientôt le bundle des jeux indépendants présentés ! ](https://stunfest.itch.io)**
 
 Les jeux seront examinés et primés dans quatre catégories :
+
 - “Stun Jam” (jeux créés le weekend précédant le Stunfest)
 - Espoir
 - Prix du Public
