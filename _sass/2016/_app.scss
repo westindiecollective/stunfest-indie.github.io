@@ -39,10 +39,10 @@ a {
 }
 
 .page-wrapper-2016 {
-  margin: 0 auto;
+  margin: 0 0 0 350px;
   width: 100%;
   max-width: 650px;
-  display: inline-block;
+  display: block;
   vertical-align: top;
 }
 
@@ -62,11 +62,12 @@ a {
 }
 
 .page-nav {
-  display: inline-block;
   vertical-align: top;
   max-width: 350px;
   width: 100%;
   margin-right: -6px;
+  position: relative;
+  float: left;
 }
 
 .page-nav__links {
@@ -77,8 +78,9 @@ a {
 }
 
 @media only screen and (max-width: 1000px) {
-  .page-wrapper {
+  .page-wrapper-2016 {
     display: block;
+    margin: 0 auto;
   }
 
   .page-nav {
@@ -86,6 +88,8 @@ a {
     display: block;
     margin: 0 auto;
     max-width: 100%;
+    float: none;
+    position: static !important;
   }
 
   .page-nav__links {
