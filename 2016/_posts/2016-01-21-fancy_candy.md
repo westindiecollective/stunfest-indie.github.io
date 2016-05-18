@@ -1,7 +1,7 @@
 ---
-title:     Play Fool
-website:    http://www.play-fool.net/fancy-candy
-studio:    Fancy Candy
+title:     Fancy Candy
+website:   http://www.play-fool.net/fancy-candy
+studio:    Play Fool
 subgenre:  Platformer 2D pour les petits
 players:   1 joueur
 platforms: Multi-plateforme dans le navigateur
