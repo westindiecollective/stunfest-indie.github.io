@@ -12,3 +12,5 @@ boxart:
 video:
 release:   18/04/2016
 ---
+
+Faites évoluer votre cube en jouant sur la correspondance des couleurs de vos faces et les couleurs du plateau pour arriver à bout de chaque niveau. Avec votre logique pour seul atout, traversez les 150 niveaux en déjouant les pièges du "Système", entité maligne et calculatrice, afin de prouver votre valeur face à la machine. Roulez, montez, descendez et rembobinez le temps pour venir à bout du Système!

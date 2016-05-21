@@ -11,3 +11,5 @@ boxart:    http://files.intrazik.com/231/insane-unity-jaquette-3375-493-20150422
 video:     https://youtu.be/U_zfc2tdtx4
 release:   23/03/2017
 ---
+
+WinThatWar! est un jeu de stratégie en temps réel qui vous entraîne au cœur d'une féroce conquête galactique dans un univers rétrofutur décalé. En plus des modes solo et multi, le cœur du jeu réside dans sa campagne MMO, à l’échelle planétaire. Construisez vos bases, formez des alliances et coordonnez vos armées de robots pour gagner en influence au sein de votre méga-corporation !

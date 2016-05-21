@@ -12,3 +12,5 @@ boxart:
 video:
 release:   28/03/2016
 ---
+
+Stormland est un jeu de gestion/survie au tour par tour. Vous dirigez une équipe de naufragés construisant un village sur une terre régulièrement traversée par d'impitoyables tempêtes. Optimisez vos ressources et le temps de vos villageois, rassemblez d'autres survivants, prenez soin d'eux ainsi que de votre environnement et vous parviendrez peut-être à tenir face aux éléments déchaînés.

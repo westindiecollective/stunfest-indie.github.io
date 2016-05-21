@@ -12,3 +12,5 @@ boxart:
 video:
 release:   31/12/2016
 ---
+
+http://playsbp.ch	Splash Blast Panic est un party game multi-joueur compétitif, où des personnages cartoonesques se tirent dessus avec des pistolets à eau et s'envolent avec des jetpacks.

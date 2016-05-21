@@ -12,3 +12,5 @@ boxart:
 video:
 release:   29/06/2016
 ---
+
+Don't Kill Her est un plateformer étrange et mignon à la fois. Entièrement dessiné à la main, son intrigue a pour personnage principal une femme qui ne cesse de répéter au joueur qu'il est son meurtrier. L'aventure est jalonnée d'étonnantes surprises, dont il faudra démêler les tenants et aboutissants afin de percer les mystères de cet énigmatique univers.

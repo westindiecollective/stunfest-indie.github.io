@@ -12,3 +12,5 @@ boxart:
 video:
 release:   03/02/2017
 ---
+
+Des zombies, Du Metal, Une Gundillac. What Moar ? 

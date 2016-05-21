@@ -12,3 +12,5 @@ boxart:
 video:
 release:
 ---
+
+Beam Gleam est un shoot'em up où on ne peut pas tirer. Le vaisseau a un miroir orientable dans huit directions avec lequel on peut réfléchir les lasers ennemis. Scorez au mieux pour être en haut de la table des high scores !

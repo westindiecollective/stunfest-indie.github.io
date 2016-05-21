@@ -12,3 +12,5 @@ boxart:
 video:
 release:   22/05/2016
 ---
+
+Crowd Smashers est un jeu d'affrontement en local. Detruisez le public de votre adversaire tout en protégeant le votre. Combinez 3 écoles de magies pour créer des sorts puissants et surprenants. Plus vous faites d'échanges plus la boule gagne en puissance et en vitesse. Faites appel à des super attaques pour; Buff, Debuff, et détruire encore plus violemment la foule adverse. 

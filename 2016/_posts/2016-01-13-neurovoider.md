@@ -12,3 +12,5 @@ boxart:    http://files.intrazik.com/231/flying-oak-games-screenshot-1-3133-493-
 video:     https://www.youtube.com/watch?v=cWpRHxze8bw
 release:   21/06/2016
 ---
+
+NeuroVoider est un twin-stick shooter RPG dans un monde futuriste contrôlé par des robots. Frayez votre chemin à travers des hordes de robots armés jusqu’aux boulons, boostez votre personnage avec les restes de vos adversaires massacrés et défiez le master NeuroVoider au rythme frénétique de la musique Dark Synth de Dan Terminus.

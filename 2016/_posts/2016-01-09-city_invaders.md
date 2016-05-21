@@ -12,3 +12,5 @@ boxart:    http://files.intrazik.com/231/lone-stone-studio-jaquette-3375-493-201
 video:     Soon (dans 2 semaines environ elle devrait être terminée)
 release:   09/10/2017
 ---
+
+Prenez la tête d'un groupe de survivants pendant l'apocalypse zombie, et partez à la conquête de vos lieux préférés ! Utilisez au mieux les compétences de vos différents personnages dans des combats tactiques au tour par tour afin de vaincre vos ennemis, joueurs et zombies, et devenez le maitre de votre quartier !

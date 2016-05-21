@@ -12,3 +12,5 @@ boxart:    http://files.intrazik.com/231/chrisdeneos-screenshot-1-3133-493-20150
 video:     https://www.youtube.com/watch?v=CInqEeewXnc
 release:
 ---
+
+Tasukete Tako-San est un Platformer/RPG commencé comme hommage à la Game Boy où l'on incarne Tako, un poulpe qui peut cracher de l'encre pour transformer ses ennemis en platformes et porter plus de 50 chapeaux qui lui confèrent des pouvoirs (bombes, épée, chats...). Le jeu contient un mode histoire, runner, boss et multijoueur, et devrait sortir sur Steam et consoles Nintendo.

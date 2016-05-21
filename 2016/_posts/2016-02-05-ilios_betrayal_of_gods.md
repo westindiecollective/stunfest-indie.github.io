@@ -12,3 +12,5 @@ boxart:    http://files.intrazik.com/231/aurora-studio-jaquette-3375-493-2015042
 video:     https://www.youtube.com/watch?v=2Tj34TqUsTE
 release:   23/11/2017
 ---
+
+Ilios est un jeu d’action-aventure en 2D HD. S’inspirant de titres encensés par la critique telles que les productions du studio Vanillaware (Dragon’s Crown), des titres de chez Platinum Games (Bayonneta) ou de références plus ancienne (Megaman, Castlevania) la volonté de cette équipe est d’offrir une aventure qui sort des canons actuels en proposant une narration poussée et un gameplay nerveux.

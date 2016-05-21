@@ -12,3 +12,6 @@ boxart:
 video:
 release:   01/12/2016
 ---
+
+Hell Eluja est un jeu à deux joueurs asymétrique. Un des joueurs joue en réalité virtuelle avec le Gear VR, l’autre sur tablette.
+Chaque personne a une façon de jouer complètement différente. Le premier, livré à lui-même, doit éviter des monstres pour sortir d'un donjon (horreur à la première personne). Le second l’en empêche en y invoquant les monstres (stratégie / dungeon defender).
