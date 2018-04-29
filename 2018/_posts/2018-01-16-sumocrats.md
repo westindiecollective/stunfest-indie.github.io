@@ -9,7 +9,7 @@ image2:   http://files.intrazik.com/231/ark-rep-screenshot-2-52125-5019-20180409
 image3:   http://files.intrazik.com/231/ark-rep-screenshot-3-52127-5019-20180409-181045.jpg
 boxart:    http://files.intrazik.com/231/ark-rep-jaquette-52129-5019-20180409-181046.jpg
 video:     https://www.youtube.com/watch?v=-TWvDe8L1WI
-release:   15 06 2018
+release:   15/06/2018
 ---
 
 Sumocrats est un jeu de sport futuriste en zéro gravité. De gigantesques corporations s'affrontent pour leur suprématie aux confins de l'espace dans des tournois ultra médiatisés. 

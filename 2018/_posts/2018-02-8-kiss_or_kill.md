@@ -8,8 +8,8 @@ image1:   http://files.intrazik.com/231/overgame-studio-image-1-52151-5021-20180
 image2:   
 image3:   
 boxart:    
-video:     à venir sur le site
-release:   deuxième semestre 218
+video:     https://www.youtube.com/watch?v=zz9q0B1h8s4
+release:   S2 2018
 ---
 
 Dans KissOrKill vous êtes seul et vous devrez relever le défi qui vous est lancé en tant que joueur. Pour venir à bout de ce shoot-them-up vous devrez choisir entre la voie de l'amour ou celle de la mort.
@@ -17,4 +17,3 @@ Dans KissOrKill vous êtes seul et vous devrez relever le défi qui vous est lan
  
  1 joueur
  shoot them up
- Pegi7 ou pegi 18 selon la manière de jouer.

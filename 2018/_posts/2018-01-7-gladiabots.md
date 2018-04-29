@@ -1,7 +1,7 @@
 ---
 title:     Gladiabots
 website:   http://gladiabots.com
-studio:    SÉBASTIEN DUBOIS (MICRO ENTREPRISE)
+studio:    SÉBASTIEN DUBOIS
 category:  competition
 platforms: Windows,OSX,Linux,iOS,Android
 image1:   http://files.intrazik.com/231/sbastien-dubois-micro-entreprise-screenshot-1-52123-5019-20180414-120322.png

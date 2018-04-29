@@ -8,8 +8,8 @@ image1:   http://files.intrazik.com/231/marble-oak-image-1-52151-5021-20180407-1
 image2:   http://files.intrazik.com/231/marble-oak-image-2-52153-5021-20180407-161654.jpg
 image3:   http://files.intrazik.com/231/marble-oak-image-3-52155-5021-20180407-161654.jpg
 boxart:    http://files.intrazik.com/231/marble-oak-jaquette-52157-5021-20180407-161655.png
-video:     https://www.youtube.com/watch?v=ct6pXuqxl44&feature=youtu.be
-release:   Aucune date prévue encore :(
+video:     https://www.youtube.com/watch?v=ct6pXuqxl44
+release: 
 ---
 
 Voici le pitch : 

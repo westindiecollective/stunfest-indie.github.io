@@ -9,7 +9,7 @@ image2:   http://files.intrazik.com/231/the-fun-institute-screenshot-2-52125-501
 image3:   http://files.intrazik.com/231/the-fun-institute-screenshot-3-52127-5019-20180420-173419.jpg
 boxart:    http://files.intrazik.com/231/the-fun-institute-jaquette-52129-5019-20180420-173420.jpg
 video:     
-release:   Aucune
+release: 
 ---
 
 Lost Paulette est un jeu PC solo avec beaucoup d'action et un feeling rétro, mélangeant des séquences en 2D pixel art et des niveaux en 3D !
