@@ -1,6 +1,6 @@
 ---
 website:   https://www.nicalis.com/games/savememrtako
-studio:    CHRISTOPHE GALATI / NICALIS
+studio:    CHRISTOPHE GALATI
 category:  studio
 image1:    http://files.intrazik.com/231/christophe-galati-nicalis-image-1-52095-5017-20180409-180852.png
 image2:    http://files.intrazik.com/231/christophe-galati-nicalis-image-2-52097-5017-20180409-180853.png

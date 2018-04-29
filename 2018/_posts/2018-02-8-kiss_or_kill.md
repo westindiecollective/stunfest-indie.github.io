@@ -12,8 +12,8 @@ video:     à venir sur le site
 release:   deuxième semestre 218
 ---
 
-Dans KissOrKill vous êtes seul et vous devrez relevez le défis qui vous est lancé en tant que joueur. Pour venir à bout de ce shoot-them-up vous devrait chosiir entre la voie de l'amour ou celle de la mort.
- à travers une multitude de niveaux court et graphiquement variés vous devrez assumer les choix de vos actes.
+Dans KissOrKill vous êtes seul et vous devrez relever le défi qui vous est lancé en tant que joueur. Pour venir à bout de ce shoot-them-up vous devrez choisir entre la voie de l'amour ou celle de la mort.
+à travers une multitude de niveaux court et graphiquement variés vous devrez assumer les choix de vos actes.
  
  1 joueur
  shoot them up
