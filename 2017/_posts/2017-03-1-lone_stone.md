@@ -1,7 +1,7 @@
 ---
 website:   https://cityinvaders.game/fr-FR/
 studio:    LONE STONE
-category:  village
+category:  studio
 image1:    http://files.intrazik.com/231/lone-stone-image-1-52095-5017-20180420-154523.jpg
 image2:    http://files.intrazik.com/231/lone-stone-image-2-52097-5017-20180420-154531.jpg
 image3:    http://files.intrazik.com/231/lone-stone-image-3-52099-5017-20180420-154532.jpg

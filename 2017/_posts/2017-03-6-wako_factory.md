@@ -1,7 +1,7 @@
 ---
 website:   http://www.wakofactory.com/
 studio:    WAKO FACTORY
-category:  village
+category:  studio
 image1:    http://files.intrazik.com/231/wako-factory-image-1-52095-5017-20180411-123233.jpg
 image2:    http://files.intrazik.com/231/wako-factory-image-2-52097-5017-20180411-123234.jpg
 image3:    http://files.intrazik.com/231/wako-factory-image-3-52099-5017-20180411-123234.jpg

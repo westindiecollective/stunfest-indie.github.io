@@ -1,7 +1,7 @@
 ---
 website:   http://pixelnest.io/
 studio:    PIXELNEST STUDIO
-category:  village
+category:  studio
 image1:    http://files.intrazik.com/231/pixelnest-studio-image-1-52095-5017-20180416-114945.png
 image2:    http://files.intrazik.com/231/pixelnest-studio-image-2-52097-5017-20180416-114945.png
 image3:    http://files.intrazik.com/231/pixelnest-studio-image-3-52099-5017-20180416-114946.png

@@ -1,7 +1,7 @@
 ---
 website:   https://domiverse.be/
 studio:    HAUNTED TIE
-category:  village
+category:  studio
 image1:    http://files.intrazik.com/231/haunted-tie-image-1-52095-5017-20180409-105934.jpg
 image2:    http://files.intrazik.com/231/haunted-tie-image-2-52097-5017-20180409-105935.png
 image3:    http://files.intrazik.com/231/haunted-tie-image-3-52099-5017-20180409-105935.png
