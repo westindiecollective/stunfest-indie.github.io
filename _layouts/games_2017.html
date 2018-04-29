@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {% include 2017/meta.html %}
+</head>
+<body>
+  <div class="page" id="page">
+    {% include 2017/header.html %}
+
+    <h1 class="page-title">JEUX 2017</h1>
+
+    <div class="page-container">
+      {% include 2017/nav.html %}
+
+      <div class="page-wrapper-2016">
+        <div class="page-content">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {% include ga.html %} 
+  {% include 2017/scripts.html %}
+</body>
+</html>

@@ -1,0 +1,52 @@
+<section class="card">
+  <h2 class="card__title" id="{{ post.title | remove: ' ' | escape }}">{{ post.title }}</h2>
+
+  <nav class="card__nav">
+
+  </nav>
+
+  <article class="card__content">
+    <div class="card__cover">
+      <a href="{{ post.website }}">
+        {% if post.boxart != nil %}
+          <img src="{{ post.boxart }}" alt="{{ post.title }}" />
+        {% else %}
+          <img src="{{ post.image1 }}" alt="{{ post.title }}" />
+        {% endif %}
+      </a>
+    </div>
+
+    <div class="card__text">{{ post.content }}</div>
+  </article>
+
+  <footer class="card__footer">
+    {% if post.studio %}
+      <p class="card__metadata">
+        {% if post.subgenre %}
+          {{ post.subgenre }}
+        {% endif %}
+        {% if post.players %}
+          - {{ post.players }}
+        {% endif %}
+      </p>
+      <p class="card__metadata">
+        {{ post.studio }}
+
+        {% if post.platforms %}
+          - {{ post.platforms }}
+        {% endif %}
+      </p>
+      <p class="card__metadata">
+        {% if post.release %}
+          Sortie le {{ post.release }}
+        {% endif %}
+      </p>
+    {% endif %}
+
+    {% if post.website %}
+      <p class="card__website">
+        <a href="{{ post.website }}" class="card__social card__social--website">{{ post.website }}</a>
+      </p>
+    {% endif %}
+  </footer>
+</section>
