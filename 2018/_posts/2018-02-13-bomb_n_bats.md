@@ -1,6 +1,6 @@
 ---
 title:     Bomb N' Bats
-website:   Pas encore.
+website: 
 studio:    KESYD GAMES
 category:  prototype
 platforms: Windows
