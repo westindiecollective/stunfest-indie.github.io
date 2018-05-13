@@ -20,11 +20,11 @@ html {
 }
 
 a {
-  color: #f0f;
+  color: rgb(90, 196, 189);
   text-decoration: none;
 
   &:hover {
-    color: #f0f;
+    color: rgb(90, 196, 189);
   }
 }
 
@@ -124,6 +124,7 @@ a {
   img {
     padding: 40px 0 0 0;
     max-width: 100%;
+    filter: hue-rotate(240deg);
   }
 
   ul {
