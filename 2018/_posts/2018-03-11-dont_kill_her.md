@@ -1,0 +1,17 @@
+---
+title:     Don't kill her
+website:   http://wuthrer.net/dontkillher/
+studio:    WUTHRER
+category:  studio
+subgenre:  Narratif, meta, plateformer
+players:   1 joueur
+platforms: PC Windows, Mac OSX
+screen1:   http://www.stunfest.fr/wp-content/uploads/2014/03/Dont-kill-her.jpg
+screen2:   
+screen3:   
+boxart:
+video:
+release:
+---
+
+Don't Kill Her est un plateformer étrange et mignon à la fois. Entièrement dessiné à la main, son intrigue a pour personnage principal une femme qui ne cesse de répéter au joueur qu'il est son meurtrier. L'aventure est jalonnée d'étonnantes surprises, dont il faudra démêler les tenants et aboutissants afin de percer les mystères de cet énigmatique univers.
