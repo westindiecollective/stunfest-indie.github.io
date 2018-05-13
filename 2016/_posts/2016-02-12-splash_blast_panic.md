@@ -5,7 +5,7 @@ studio:    Team Kwakwa
 subgenre:  Compétitif party
 players:   4 joueurs
 platforms: PC Windows
-screen1:   http://www.stunfest.fr/wp-content/uploads/2014/03/splash-bast-past.png
+screen1:   /static/images/covers/2016/splash-bast-past.png
 screen2:   
 screen3:
 boxart:    

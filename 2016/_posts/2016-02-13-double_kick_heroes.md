@@ -5,7 +5,7 @@ studio:    Headbang Club
 subgenre:  Metal Zombie Havoc
 players:   1 joueur
 platforms: PC Windows
-screen1:   http://www.stunfest.fr/wp-content/uploads/2014/03/double-kicks-heroes.jpg
+screen1:   /static/images/covers/2016/double-kicks-heroes.jpg
 screen2:   
 screen3:
 boxart:    

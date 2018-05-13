@@ -5,7 +5,7 @@ studio:    i3 Game Jam
 subgenre:  Couch Versus
 players:   4 joueurs
 platforms: PC Windows
-screen1:   http://www.stunfest.fr/wp-content/uploads/2014/03/STONEBOND-The-Gargoyles.jpg
+screen1:   /static/images/covers/2016/STONEBOND-The-Gargoyles.jpg
 screen2:
 screen3:
 boxart:

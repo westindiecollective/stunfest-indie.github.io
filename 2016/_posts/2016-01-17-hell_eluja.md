@@ -5,7 +5,7 @@ studio:    Oniroforge
 subgenre:  FPS
 players:   2 joueurs
 platforms: Tablette/Oculus Rift/Gear VR
-screen1:   http://www.stunfest.fr/wp-content/uploads/2014/03/Hell-Eluja.png
+screen1:   /static/images/covers/2016/Hell-Eluja.png
 screen2:
 screen3:
 boxart:

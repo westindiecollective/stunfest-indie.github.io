@@ -5,7 +5,7 @@ studio:    Play Fool
 subgenre:  Platformer 2D pour les petits
 players:   1 joueur
 platforms: Multi-plateforme dans le navigateur
-screen1:   http://www.stunfest.fr/wp-content/uploads/2014/03/fancy-candy_play-fool.png
+screen1:   /static/images/covers/2016/fancy-candy_play-fool.png
 screen2:
 screen3:
 boxart:

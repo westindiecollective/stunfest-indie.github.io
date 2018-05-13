@@ -5,7 +5,7 @@ studio:    Eode Group
 subgenre:  Action/Aventure/Party Game
 players:   
 platforms: Multi-plateforme
-screen1:   http://www.stunfest.fr/wp-content/uploads/2014/03/moonlight.jpg
+screen1:   /static/images/covers/2016/moonlight.jpg
 screen2:
 screen3:
 boxart:

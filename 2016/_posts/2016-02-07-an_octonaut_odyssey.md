@@ -5,7 +5,7 @@ studio:    Octo Studio
 subgenre:  Aventure, plateformer
 players:   1 joueur
 platforms: Multi-plateforme
-screen1:   http://www.stunfest.fr/wp-content/uploads/2014/03/an-octonaute-odyssey.jpg
+screen1:   /static/images/covers/2016/an-octonaute-odyssey.jpg
 screen2:  
 screen3:   
 boxart:    

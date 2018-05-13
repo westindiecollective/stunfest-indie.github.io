@@ -5,7 +5,7 @@ studio:    Wuthrer
 subgenre:  Narratif, meta, plateformer
 players:   1 joueur
 platforms: PC Windows, Mac OSX
-screen1:   http://www.stunfest.fr/wp-content/uploads/2014/03/Dont-kill-her.jpg
+screen1:   /static/images/covers/2016/Dont-kill-her.jpg
 screen2:   
 screen3:   
 boxart:
