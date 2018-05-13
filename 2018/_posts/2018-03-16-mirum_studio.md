@@ -1,10 +1,10 @@
 ---
 website:   http://www.mirumstudio.com/
-studio:    MIRIUM STUDIO
+studio:    MIRUM STUDIO
 category:  studio
-image1:    http://www.mirumstudio.com/wp-content/uploads/2017/11/GUARDS_portfolio-1280x720.jpg
-image2:    http://www.mirumstudio.com/wp-content/uploads/2017/11/Portfolio_RoB-1280x720.jpg
-image3:    http://www.mirumstudio.com/wp-content/uploads/2016/10/Hero-1280x720.jpg
+image1:    /static/images/covers/2018/mirum_studio_1.jpg
+image2:    /static/images/covers/2018/mirum_studio_2.jpg
+image3:    /static/images/covers/2018/mirum_studio_3.jpg
 video:     https://www.youtube.com/watch?v=6v0vogyo6L4
 ---
 
