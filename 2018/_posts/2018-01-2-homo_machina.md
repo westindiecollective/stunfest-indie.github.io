@@ -1,6 +1,6 @@
 ---
 title:     Homo Machina
-website:   arte.tv/homomachina-game
+website:   http://arte.tv/homomachina-game
 studio:    ARTE
 category:  competition
 platforms: iOS,Android

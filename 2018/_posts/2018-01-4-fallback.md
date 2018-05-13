@@ -1,6 +1,6 @@
 ---
 title:     FALLBACK
-website:   Endroad.fr
+website:   http://endroad.fr
 studio:    ENDROAD
 category:  competition
 platforms: Windows
