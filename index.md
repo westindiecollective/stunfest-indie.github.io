@@ -9,12 +9,12 @@ title: indie.stunfest.fr
 
 Cette nouvelle édition du [Stunfest](http://www.stunfest.com) est l'occasion pour vous d'essayer des **jeux indépendants** inédits et de **rencontrer leurs créateurs**.
 
-Nous vous proposons un panel de **9 studios**, **20 jeux** et **13 prototypes** représentant la diversité de cette vague vidéoludique émergente.
+Nous vous proposons un panel de **16 studios**, **18 jeux** et **11 prototypes** représentant la diversité de cette vague vidéoludique émergente.
 Au programme : jeux PC et console, expériences en réalité virtuelle et jeux multijoueurs.
 
 **[Voir les jeux présents au Stunfest 2018](/2018/)**
 
-**[Découvrez bientôt le bundle des jeux indépendants présentés ! ](https://stunfest.itch.io)**
+<!-- **[Découvrez bientôt le bundle des jeux indépendants présentés ! ](https://stunfest.itch.io)** -->
 
 Les jeux seront examinés et primés dans quatre catégories :
 
