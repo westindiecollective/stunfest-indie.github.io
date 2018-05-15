@@ -25,4 +25,4 @@ Les jeux seront examinés et primés dans quatre catégories :
 
 Nous vous souhaitons une bonne découverte et rappelez-vous que l'avis d'un joueur est précieux pour un développeur alors n'hésitez pas à échanger avec eux.
 
-Cet espace vous est proposé par [3 Hit Combo](http://www.3hitcombo.fr/) et le [Indie Collective](https://indieco.xyz/).
+Cet espace vous est proposé par [3 Hit Combo](http://www.3hitcombo.fr/) et [Indie Collective](https://indieco.xyz/).
