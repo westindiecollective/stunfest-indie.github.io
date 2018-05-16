@@ -6,9 +6,9 @@ category:  studio
 subgenre:  Arcade, Action
 players:   1 joueur
 platforms: PC Windows
-screen1:   http://www.stunfest.fr/wp-content/uploads/2014/03/modsork.png
-screen2:  
-screen3:   
+image1:   /static/images/covers/2016/modsork.png
+image2:  
+image3:   
 boxart:    
 video:
 release:

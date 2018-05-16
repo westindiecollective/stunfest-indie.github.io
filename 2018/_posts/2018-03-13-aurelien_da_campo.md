@@ -6,9 +6,9 @@ category:  studio
 subgenre:  2D puzzle plateformer
 players:   1 joueur
 platforms: Multi-plateforme
-screen1:   http://www.stunfest.fr/wp-content/uploads/2014/03/looking-for-imago.png
-screen2:  
-screen3:   
+image1:   /static/images/covers/2016/looking-for-imago.png
+image2:  
+image3:   
 boxart:    
 video:
 release:
