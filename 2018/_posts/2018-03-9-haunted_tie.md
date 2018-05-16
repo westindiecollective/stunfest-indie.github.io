@@ -2,9 +2,9 @@
 website:   https://domiverse.be/
 studio:    HAUNTED TIE
 category:  studio
-image1:    http://files.intrazik.com/231/haunted-tie-image-1-52095-5017-20180409-105934.jpg
-image2:    http://files.intrazik.com/231/haunted-tie-image-2-52097-5017-20180409-105935.png
-image3:    http://files.intrazik.com/231/haunted-tie-image-3-52099-5017-20180409-105935.png
+image1:    https://files.heeds.eu/231/haunted-tie-image-1-52095-5017-20180409-105934.jpg
+image2:    https://files.heeds.eu/231/haunted-tie-image-2-52097-5017-20180409-105935.png
+image3:    https://files.heeds.eu/231/haunted-tie-image-3-52099-5017-20180409-105935.png
 video:     https://www.youtube.com/watch?v=9HfiXR_ivWo
 ---
 

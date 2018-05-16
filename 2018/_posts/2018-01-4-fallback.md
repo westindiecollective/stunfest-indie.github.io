@@ -4,10 +4,10 @@ website:   http://endroad.fr
 studio:    ENDROAD
 category:  competition
 platforms: Windows
-image1:   http://files.intrazik.com/231/endroad-screenshot-1-52123-5019-20180424-122022.png
-image2:   http://files.intrazik.com/231/endroad-screenshot-2-52125-5019-20180424-122023.png
-image3:   http://files.intrazik.com/231/endroad-screenshot-3-52127-5019-20180424-122023.png
-boxart:    http://files.intrazik.com/231/endroad-jaquette-52129-5019-20180424-122024.jpg
+image1:   https://files.heeds.eu/231/endroad-screenshot-1-52123-5019-20180424-122022.png
+image2:   https://files.heeds.eu/231/endroad-screenshot-2-52125-5019-20180424-122023.png
+image3:   https://files.heeds.eu/231/endroad-screenshot-3-52127-5019-20180424-122023.png
+boxart:    https://files.heeds.eu/231/endroad-jaquette-52129-5019-20180424-122024.jpg
 video:     
 release:   01/09/2018
 ---

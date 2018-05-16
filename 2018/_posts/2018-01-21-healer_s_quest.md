@@ -4,10 +4,10 @@ website:   http://healersquestgame.com/
 studio:    RABLO GAMES
 category:  competition
 platforms: Windows
-image1:   http://files.intrazik.com/231/rablo-games-screenshot-1-52123-5019-20180407-181522.jpg
-image2:   http://files.intrazik.com/231/rablo-games-screenshot-2-52125-5019-20180407-181522.jpg
-image3:   http://files.intrazik.com/231/rablo-games-screenshot-3-52127-5019-20180407-181523.jpg
-boxart:    http://files.intrazik.com/231/rablo-games-jaquette-52129-5019-20180407-181523.png
+image1:   https://files.heeds.eu/231/rablo-games-screenshot-1-52123-5019-20180407-181522.jpg
+image2:   https://files.heeds.eu/231/rablo-games-screenshot-2-52125-5019-20180407-181522.jpg
+image3:   https://files.heeds.eu/231/rablo-games-screenshot-3-52127-5019-20180407-181523.jpg
+boxart:    https://files.heeds.eu/231/rablo-games-jaquette-52129-5019-20180407-181523.png
 video:     https://www.youtube.com/watch?v=E_olCwNQDaQ
 release:   18/04/2018
 ---

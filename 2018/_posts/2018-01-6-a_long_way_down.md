@@ -4,9 +4,9 @@ website:   https://alwd.seenapsis.studio
 studio:    SEENAPSIS
 category:  competition
 platforms: Windows,iOS,Android,Console
-image1:   http://files.intrazik.com/231/seenapsis-screenshot-1-52123-5019-20180415-235356.png
-image2:   http://files.intrazik.com/231/seenapsis-screenshot-2-52125-5019-20180415-235356.jpg
-image3:   http://files.intrazik.com/231/seenapsis-screenshot-3-52127-5019-20180415-235357.jpg
+image1:   https://files.heeds.eu/231/seenapsis-screenshot-1-52123-5019-20180415-235356.png
+image2:   https://files.heeds.eu/231/seenapsis-screenshot-2-52125-5019-20180415-235356.jpg
+image3:   https://files.heeds.eu/231/seenapsis-screenshot-3-52127-5019-20180415-235357.jpg
 boxart:    
 video:     https://alwd.seenapsis.studio/teaser
 release:   Automne 2017

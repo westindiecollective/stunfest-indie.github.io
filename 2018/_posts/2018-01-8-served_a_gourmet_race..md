@@ -4,8 +4,8 @@ website:   https://chromaticroom.com/games/served
 studio:    CHROMATIC ROOM
 category:  competition
 platforms: Windows,OSX,Console
-image1:   http://files.intrazik.com/231/chromatic-room-screenshot-1-52123-5019-20180413-190344.jpg
-image2:   http://files.intrazik.com/231/chromatic-room-screenshot-2-52125-5019-20180413-190344.jpg
+image1:   https://files.heeds.eu/231/chromatic-room-screenshot-1-52123-5019-20180413-190344.jpg
+image2:   https://files.heeds.eu/231/chromatic-room-screenshot-2-52125-5019-20180413-190344.jpg
 image3:   
 boxart:    
 video:     

@@ -4,8 +4,8 @@ website:
 studio:    KESYD GAMES
 category:  prototype
 platforms: Windows
-image1:   http://files.intrazik.com/231/kesyd-games-image-1-52151-5021-20180409-185716.png
-image2:   http://files.intrazik.com/231/kesyd-games-image-2-52153-5021-20180409-185717.png
+image1:   https://files.heeds.eu/231/kesyd-games-image-1-52151-5021-20180409-185716.png
+image2:   https://files.heeds.eu/231/kesyd-games-image-2-52153-5021-20180409-185717.png
 image3:   
 boxart:    
 video:     https://www.youtube.com/watch?v=sFSuuNqfFsY

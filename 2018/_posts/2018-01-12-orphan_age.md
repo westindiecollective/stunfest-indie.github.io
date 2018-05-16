@@ -4,10 +4,10 @@ website:   http://orphan-age.com
 studio:    BLACK FLAG
 category:  competition
 platforms: Windows
-image1:   http://files.intrazik.com/231/black-flag-screenshot-1-52123-5019-20180411-093202.png
-image2:   http://files.intrazik.com/231/black-flag-screenshot-2-52125-5019-20180411-093202.png
-image3:   http://files.intrazik.com/231/black-flag-screenshot-3-52127-5019-20180411-093203.jpg
-boxart:    http://files.intrazik.com/231/black-flag-jaquette-52129-5019-20180411-093203.jpg
+image1:   https://files.heeds.eu/231/black-flag-screenshot-1-52123-5019-20180411-093202.png
+image2:   https://files.heeds.eu/231/black-flag-screenshot-2-52125-5019-20180411-093202.png
+image3:   https://files.heeds.eu/231/black-flag-screenshot-3-52127-5019-20180411-093203.jpg
+boxart:    https://files.heeds.eu/231/black-flag-jaquette-52129-5019-20180411-093203.jpg
 video:     https://youtu.be/ZM4fHxc5gVs
 release:   Fin 2018
 ---

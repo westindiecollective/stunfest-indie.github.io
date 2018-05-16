@@ -4,7 +4,7 @@ website:   https://team-kaiju.itch.io/kaiju-snap
 studio:    CNAM ENJMIN
 category:  prototype
 platforms: Windows,OSX,Linux
-image1:   http://files.intrazik.com/231/cnam-enjmin-image-1-52151-5021-20180502-210637.png
+image1:   https://files.heeds.eu/231/cnam-enjmin-image-1-52151-5021-20180502-210637.png
 boxart:
 video:
 release:   

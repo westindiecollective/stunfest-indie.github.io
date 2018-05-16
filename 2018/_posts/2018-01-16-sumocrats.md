@@ -4,10 +4,10 @@ website:   www.sumocrats.com
 studio:    ARK REP
 category:  competition
 platforms: Windows
-image1:   http://files.intrazik.com/231/ark-rep-screenshot-1-52123-5019-20180409-181044.jpg
-image2:   http://files.intrazik.com/231/ark-rep-screenshot-2-52125-5019-20180409-181045.jpg
-image3:   http://files.intrazik.com/231/ark-rep-screenshot-3-52127-5019-20180409-181045.jpg
-boxart:    http://files.intrazik.com/231/ark-rep-jaquette-52129-5019-20180409-181046.jpg
+image1:   https://files.heeds.eu/231/ark-rep-screenshot-1-52123-5019-20180409-181044.jpg
+image2:   https://files.heeds.eu/231/ark-rep-screenshot-2-52125-5019-20180409-181045.jpg
+image3:   https://files.heeds.eu/231/ark-rep-screenshot-3-52127-5019-20180409-181045.jpg
+boxart:    https://files.heeds.eu/231/ark-rep-jaquette-52129-5019-20180409-181046.jpg
 video:     https://www.youtube.com/watch?v=-TWvDe8L1WI
 release:   15/06/2018
 ---

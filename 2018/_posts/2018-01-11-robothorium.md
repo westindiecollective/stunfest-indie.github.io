@@ -4,10 +4,10 @@ website:   http://www.robothorium.com
 studio:    GOBLINZ STUDIO
 category:  competition
 platforms: Windows,OSX,Linux,Console
-image1:   http://files.intrazik.com/231/goblinz-studio-screenshot-1-52123-5019-20180411-102806.jpg
-image2:   http://files.intrazik.com/231/goblinz-studio-screenshot-2-52125-5019-20180411-102807.jpg
-image3:   http://files.intrazik.com/231/goblinz-studio-screenshot-3-52127-5019-20180411-102807.jpg
-boxart:    http://files.intrazik.com/231/goblinz-studio-jaquette-52129-5019-20180411-102807.png
+image1:   https://files.heeds.eu/231/goblinz-studio-screenshot-1-52123-5019-20180411-102806.jpg
+image2:   https://files.heeds.eu/231/goblinz-studio-screenshot-2-52125-5019-20180411-102807.jpg
+image3:   https://files.heeds.eu/231/goblinz-studio-screenshot-3-52127-5019-20180411-102807.jpg
+boxart:    https://files.heeds.eu/231/goblinz-studio-jaquette-52129-5019-20180411-102807.png
 video:     https://www.youtube.com/watch?v=yiWKwVQ-vUg
 release:   10/05/2018
 ---

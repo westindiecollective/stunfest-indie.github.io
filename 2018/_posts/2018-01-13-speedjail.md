@@ -4,9 +4,9 @@ website:
 studio:    LIGHTSHARDS
 category:  competition
 platforms: Windows,Console
-image1:   http://files.intrazik.com/231/lightshards-screenshot-1-52123-5019-20180410-153358.jpg
-image2:   http://files.intrazik.com/231/lightshards-screenshot-2-52125-5019-20180410-153358.png
-image3:   http://files.intrazik.com/231/lightshards-screenshot-3-52127-5019-20180410-153400.jpg
+image1:   https://files.heeds.eu/231/lightshards-screenshot-1-52123-5019-20180410-153358.jpg
+image2:   https://files.heeds.eu/231/lightshards-screenshot-2-52125-5019-20180410-153358.png
+image3:   https://files.heeds.eu/231/lightshards-screenshot-3-52127-5019-20180410-153400.jpg
 boxart:    
 video:     https://youtu.be/gIlJxy_sETw
 release:   2019

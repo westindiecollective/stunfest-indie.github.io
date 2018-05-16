@@ -4,9 +4,9 @@ website:   http://www.sigmatheorygame.com
 studio:    MI-CLOS STUDIO
 category:  competition
 platforms: Windows,OSX,Linux,iOS,Android,Console
-image1:   http://files.intrazik.com/231/mi-clos-studio-screenshot-1-52123-5019-20180412-125643.jpg
-image2:   http://files.intrazik.com/231/mi-clos-studio-screenshot-2-52125-5019-20180412-125643.jpg
-image3:   http://files.intrazik.com/231/mi-clos-studio-screenshot-3-52127-5019-20180412-125644.jpg
+image1:   https://files.heeds.eu/231/mi-clos-studio-screenshot-1-52123-5019-20180412-125643.jpg
+image2:   https://files.heeds.eu/231/mi-clos-studio-screenshot-2-52125-5019-20180412-125643.jpg
+image3:   https://files.heeds.eu/231/mi-clos-studio-screenshot-3-52127-5019-20180412-125644.jpg
 boxart:    
 video:     https://www.youtube.com/watch?v=-Xf_gRBvzM4
 release:   2018

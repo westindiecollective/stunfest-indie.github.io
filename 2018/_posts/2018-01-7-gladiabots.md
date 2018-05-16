@@ -4,10 +4,10 @@ website:   http://gladiabots.com
 studio:    SÉBASTIEN DUBOIS
 category:  competition
 platforms: Windows,OSX,Linux,iOS,Android
-image1:   http://files.intrazik.com/231/sbastien-dubois-micro-entreprise-screenshot-1-52123-5019-20180414-120322.png
-image2:   http://files.intrazik.com/231/sbastien-dubois-micro-entreprise-screenshot-2-52125-5019-20180414-120323.png
-image3:   http://files.intrazik.com/231/sbastien-dubois-micro-entreprise-screenshot-3-52127-5019-20180414-120324.png
-boxart:    http://files.intrazik.com/231/sbastien-dubois-micro-entreprise-jaquette-52129-5019-20180414-120325.png
+image1:   https://files.heeds.eu/231/sbastien-dubois-micro-entreprise-screenshot-1-52123-5019-20180414-120322.png
+image2:   https://files.heeds.eu/231/sbastien-dubois-micro-entreprise-screenshot-2-52125-5019-20180414-120323.png
+image3:   https://files.heeds.eu/231/sbastien-dubois-micro-entreprise-screenshot-3-52127-5019-20180414-120324.png
+boxart:    https://files.heeds.eu/231/sbastien-dubois-micro-entreprise-jaquette-52129-5019-20180414-120325.png
 video:     https://www.youtube.com/watch?v=YNBavOqu6zM
 release:   01/07/2018 (early access)
 ---

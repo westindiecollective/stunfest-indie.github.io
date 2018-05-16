@@ -4,9 +4,9 @@ website:   http://arte.tv/homomachina-game
 studio:    ARTE
 category:  competition
 platforms: iOS,Android
-image1:   http://files.intrazik.com/231/arte-screenshot-1-52123-5019-20180424-143705.jpg
-image2:   http://files.intrazik.com/231/arte-screenshot-2-52125-5019-20180424-143705.jpg
-image3:   http://files.intrazik.com/231/arte-screenshot-3-52127-5019-20180424-143706.jpg
+image1:   https://files.heeds.eu/231/arte-screenshot-1-52123-5019-20180424-143705.jpg
+image2:   https://files.heeds.eu/231/arte-screenshot-2-52125-5019-20180424-143705.jpg
+image3:   https://files.heeds.eu/231/arte-screenshot-3-52127-5019-20180424-143706.jpg
 boxart:    
 video:     https://www.youtube.com/watch?v=wDctYmqRtX0&feature=youtu.be
 release:   17/05/2018

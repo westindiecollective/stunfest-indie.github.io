@@ -4,7 +4,7 @@ website:   https://twitter.com/ItsPaperGuy
 studio:    PAPER TEAM
 category:  prototype
 platforms: Windows
-image1:   http://files.intrazik.com/231/paper-team-image-1-52151-5021-20180410-161956.png
+image1:   https://files.heeds.eu/231/paper-team-image-1-52151-5021-20180410-161956.png
 image2:   
 image3:   
 boxart:    

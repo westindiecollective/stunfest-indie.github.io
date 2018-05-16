@@ -4,7 +4,7 @@ website:   http://kissorkillgame.com/
 studio:    OVERGAME STUDIO
 category:  prototype
 platforms: Windows,Console
-image1:   http://files.intrazik.com/231/overgame-studio-image-1-52151-5021-20180414-110834.png
+image1:   https://files.heeds.eu/231/overgame-studio-image-1-52151-5021-20180414-110834.png
 image2:   
 image3:   
 boxart:    
