@@ -1,6 +1,6 @@
 ---
 title:     SUMOCRATS
-website:   www.sumocrats.com
+website:   http://www.sumocrats.com
 studio:    ARK REP
 category:  competition
 platforms: Windows
